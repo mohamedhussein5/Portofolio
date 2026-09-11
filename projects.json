@@ -1,0 +1,282 @@
+[
+  [
+    "Retail Sales: Excel & Power BI",
+    "Data & databases",
+    "Individual project",
+    "Compared Excel and Power BI using a filtered Sample Superstore dataset: Central region orders from 2017. Validated duplicates and data types, then built category comparisons and monthly sales views.",
+    "Excel PivotTables and PivotCharts; COUNTIFS checks; Power Query; Power BI cards and charts",
+    38
+  ],
+  [
+    "FastTaxis Database Application",
+    "Data & databases",
+    "Group project",
+    "A relational database prototype for taxi operations, connecting vehicles, drivers, clients, bookings and maintenance. The team report documents dashboards for directors, staff, drivers and owners, with SQL-based reporting.",
+    "MySQL; PHP; HTML & CSS; XAMPP; relational database design",
+    21
+  ],
+  [
+    "Data Mining & Data Warehousing",
+    "Data & databases",
+    "Individual research",
+    "Reviewed five journal articles and white papers covering cloud data warehouses, data mining adoption, autonomous databases and healthcare applications.",
+    "Literature review; comparative analysis; research synthesis",
+    null
+  ],
+  [
+    "Database Concepts Portfolio",
+    "Data & databases",
+    "Coursework portfolio",
+    "A collection of database exercises and supporting work, including hotel and clinic SQL scripts, entity-relationship diagrams, an Access database and Microsoft Azure study material.",
+    "SQL; ER modelling; Microsoft Access; database fundamentals",
+    null
+  ],
+  [
+    "EcoPulse Environmental Platform",
+    "Design & graphics",
+    "Individual UI/UX project",
+    "Designed an environmental awareness campaign platform as an HCI final assessment, covering user experience planning, user needs and interface design.",
+    "Figma; user experience planning; interface design; HCI",
+    30
+  ],
+  [
+    "KK Rewards App Redesign",
+    "Design & graphics",
+    "Individual UI/UX project",
+    "Evaluated the KK Super Mart mobile app using field observations at the De Centrum branch. Analysed barriers around membership barcodes, vouchers and accessibility to inform a redesign.",
+    "Field observation; usability analysis; interface redesign",
+    31
+  ],
+  [
+    "3D School Classroom",
+    "Design & graphics",
+    "Individual programming project",
+    "Created an OpenGL classroom scene using furniture built from basic shapes, hierarchical modelling, a day/night lighting cycle and a working door.",
+    "C++; OpenGL; GLUT; hierarchical modelling; lighting",
+    17
+  ],
+  [
+    "2D Mechanical Gear",
+    "Design & graphics",
+    "Individual programming project",
+    "Implemented a mechanical gear from graphics primitives, then explored translation and rotation using OpenGL transformations.",
+    "C++; OpenGL; 2D geometry; matrix transformations",
+    16
+  ],
+  [
+    "Personal Visual Identity",
+    "Design & graphics",
+    "Individual design study",
+    "Developed and explained a personal monogram, colour choices, tagline and a plan for presenting the identity on social media.",
+    "Visual identity; design rationale; personal branding",
+    null
+  ],
+  [
+    "Hotel Booking Management System",
+    "Software & systems",
+    "Group programming project",
+    "Built a Java Swing booking application with registration, login, room selection and a booking summary. The report describes member discounts, loyalty points and in-memory customer storage.",
+    "Java; Swing; GUI event handling; booking calculations",
+    5
+  ],
+  [
+    "AI-Enabled Community Health Services",
+    "Software & systems",
+    "Group system design",
+    "Designed a community healthcare management system across two reports: stakeholder needs and requirements, followed by architecture, class and sequence diagrams, database design, wireframes and ethical considerations.",
+    "Requirements analysis; UML; ER diagrams; wireframes; system architecture",
+    12
+  ],
+  [
+    "Mobile & Self-Payment Systems",
+    "Software & systems",
+    "Group field study",
+    "Compared the usability of Grab and self-checkout systems at Lotus, Decathlon and AEON in IOI City Mall, then proposed improvements.",
+    "Field analysis; usability criteria; comparative evaluation",
+    14
+  ],
+  [
+    "Java Programming Fundamentals",
+    "Software & systems",
+    "Classroom exercise collection",
+    "A collection of small Java programs covering calculators, BMI, ATM and bakery exercises, student records and graphical interfaces.",
+    "Java; control flow; calculations; Swing; practice exercises",
+    null
+  ],
+  [
+    "Object-Oriented Java Activities",
+    "Software & systems",
+    "Classroom exercise collection",
+    "Practised object-oriented programming through bank accounts, shapes, vehicles, employee classes, converters and ArrayList activities.",
+    "Java; classes; encapsulation; collections",
+    null
+  ],
+  [
+    "Concurrent Card Game Study",
+    "Software & systems",
+    "Classroom activity",
+    "Course files explore a card game with participant threads, a moderator and a shared table. This learning activity studies thread coordination and game flow.",
+    "Java threads; shared state; synchronisation concepts",
+    null
+  ],
+  [
+    "Network Topology & VLSM Design",
+    "Networks & computing",
+    "Individual network project",
+    "Designed and tested a five-department LAN in Cisco Packet Tracer using a star topology, a central router and VLSM addressing.",
+    "Cisco Packet Tracer; VLSM; LAN design; connectivity testing",
+    19
+  ],
+  [
+    "Network Administration & Device Security",
+    "Networks & computing",
+    "Individual network project",
+    "Extended the department network with router and switch hardening, device naming, access protection, SSH configuration and unused-port shutdown.",
+    "Cisco networking; SSH; device hardening; access management",
+    null
+  ],
+  [
+    "Computer Hardware Comparison",
+    "Networks & computing",
+    "Individual coursework",
+    "Compared desktop computer specifications, cost and suitability for different uses as part of a computer architecture assignment.",
+    "Computer architecture; hardware evaluation; technical comparison",
+    null
+  ],
+  [
+    "Logic Gates & Number Representation",
+    "Networks & computing",
+    "Individual coursework",
+    "Explored logic gates, binary number concepts and computer data representation through written explanations and diagrams.",
+    "Digital logic; binary systems; computer architecture",
+    null
+  ],
+  [
+    "Operating System Evolution",
+    "Networks & computing",
+    "Individual coursework",
+    "Studied the development of major operating system families, including IBM systems and UNIX, and their influence on modern computing.",
+    "Operating systems; technical research; historical comparison",
+    null
+  ],
+  [
+    "Command-Line & Backup Exercise",
+    "Networks & computing",
+    "Individual lab",
+    "Practised DOS file and directory commands and documented a batch-file backup exercise for copying text files to a backup folder.",
+    "Windows command line; file operations; batch scripting",
+    null
+  ],
+  [
+    "UniDaily Supplies",
+    "Business & research",
+    "Group e-commerce project",
+    "Developed a student stationery starter-pack business on Carousell Malaysia. The team report covers sourcing, store setup, marketing through TikTok, Facebook and WhatsApp, and transaction recording.",
+    "E-commerce; digital marketing; product sourcing; financial records",
+    27
+  ],
+  [
+    "Shein E-Commerce Business Analysis",
+    "Business & research",
+    "Individual case study",
+    "Examined Shein’s business model, target market and competitive positioning using e-commerce concepts.",
+    "Business models; market analysis; competitive comparison",
+    null
+  ],
+  [
+    "International Online Education",
+    "Business & research",
+    "Individual case study",
+    "Analysed challenges for KLUST in offering online academic programmes internationally, including digital promotion and student enrolment.",
+    "Global e-commerce; online education; case analysis",
+    null
+  ],
+  [
+    "Fadwa Collection Multimedia Study",
+    "Business & research",
+    "Individual case study",
+    "Examined a small online business, its products, customers and current digital presence through a corporate multimedia assignment.",
+    "Business analysis; digital presence; corporate multimedia",
+    null
+  ],
+  [
+    "Citizen Registration & Big Data Platform",
+    "Business & research",
+    "Group planning case study",
+    "Applied project management principles to a proposed citizen registration and big data analytics platform for Somalia. This is a planning case study.",
+    "Project planning; scope; stakeholder analysis; big data context",
+    null
+  ],
+  [
+    "Software Team & HR Management",
+    "Business & research",
+    "Individual research",
+    "Evaluated communication, missed deadlines, knowledge sharing and team conflict in a TechNova Solutions case, proposing management strategies and Jira-supported coordination.",
+    "Software project management; teamwork; conflict resolution; Jira proposal",
+    null
+  ],
+  [
+    "British Airways Data Breach Analysis",
+    "Business & research",
+    "Individual ethics case study",
+    "Examined a data breach through ethical and legal questions, with recommendations for responsible handling and protection of personal data.",
+    "IT ethics; privacy; case analysis; research",
+    null
+  ],
+  [
+    "Data Privacy & Consent",
+    "Business & research",
+    "Individual ethics study",
+    "Explored consent and privacy issues in AI-driven profiling and surveillance, focusing on the responsibilities of people designing data-based systems.",
+    "Responsible AI; data privacy; ethical analysis",
+    null
+  ],
+  [
+    "Intelligent Systems in Smart Cities",
+    "Sustainability & communication",
+    "Group presentation",
+    "Explained how intelligent systems collect urban data, analyse conditions and support decisions, including a Singapore traffic management case study.",
+    "Smart cities; AI applications; sustainability; presentation",
+    2
+  ],
+  [
+    "Corporate Sustainability & ESG",
+    "Sustainability & communication",
+    "Individual case study",
+    "Compared sustainability and ESG practices at Unilever, Tesla and Nestlé, with consideration of whole-life costs.",
+    "ESG analysis; comparative research; whole-life costing",
+    null
+  ],
+  [
+    "Hargeisa Urban Water Supply",
+    "Sustainability & communication",
+    "Group case study",
+    "Studied the infrastructure and sustainability aspects of the Hargeisa Urban Water Supply Upgrading Project in Somalia.",
+    "Infrastructure analysis; sustainability; group research",
+    null
+  ],
+  [
+    "Somali Wedding Traditions",
+    "Sustainability & communication",
+    "Group report & presentation",
+    "Investigated the role of small-group communication in Somali wedding traditions and how families coordinate cultural events.",
+    "Cultural research; group communication; presentation",
+    null
+  ],
+  [
+    "Managing Conflict in Groups",
+    "Sustainability & communication",
+    "Individual coursework",
+    "Analysed task, process and interpersonal conflict in a study-group scenario and considered conflict-management strategies.",
+    "Communication; conflict analysis; teamwork",
+    null
+  ],
+  [
+    "Research Exhibition Reflection",
+    "Sustainability & communication",
+    "Individual visit report",
+    "Documented attendance at the Tan Sri Leo Moggie Lecture Series and reflected on selected IT-related research exhibits.",
+    "Observation; research communication; reflective reporting",
+    null
+  ]
+]
