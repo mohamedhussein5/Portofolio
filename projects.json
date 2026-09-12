@@ -1,5 +1,13 @@
 [
   [
+    "RavenStack Customer Retention & Revenue Analytics",
+    "Data & databases",
+    "Group Power BI project",
+    "Analysed five connected datasets for a simulated SaaS business with 500 accounts. The team created descriptive, diagnostic and predictive dashboards covering churn, customer risk and recurring revenue. My documented contribution: dataset preparation, data cleaning, data modelling and relationships in Power BI, plus support for dashboard visuals and DAX measures. The report records a 22% churn rate and 78 active accounts classified as high risk. Risk classification was rule-based; the dataset is simulated.",
+    "Power BI; data preparation; relational modelling; DAX; dashboard development; three-month MRR forecast",
+    "ravenstack"
+  ],
+  [
     "Retail Sales: Excel & Power BI",
     "Data & databases",
     "Individual project",
