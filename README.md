@@ -26,3 +26,8 @@ Local edits do not automatically change the live website. Ask your website assis
 For other static hosting services, publish the contents of dist. No build step is required.
 
 Only the website and its selected previews are included. The original university documents remain in their original folders.
+
+## Project reports and design links
+Reports are stored in dist/reports. Each matching project in dist/index.html includes a report link. PDF files open in a new tab; Word reports download for viewing in Word. HCI prototype links are listed in the EcoPulse and KK Rewards project entries. Figma access follows your sharing settings in Figma.
+
+The skills and language section is in dist/index.html under id="skills". Project resource inventories are also recorded in project-resources.json for reference.
