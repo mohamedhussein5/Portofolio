@@ -268,5 +268,47 @@
     "issuer": "EC-Council CodeRed",
     "date": "August 2026 · Course completion",
     "image": "assets/certificate-course-12.jpg"
+  },
+  {
+    "title": "Artificial Intelligence for Everyone",
+    "issuer": "National Training Week",
+    "date": "August 2026",
+    "image": "assets/certificate-new-ai-everyone.jpg"
+  },
+  {
+    "title": "AI for Entrepreneurship and Freelancing",
+    "issuer": "National Training Week",
+    "date": "September 2026",
+    "image": "assets/certificate-new-ai-entrepreneurship.jpg"
+  },
+  {
+    "title": "AI-Driven Digital Marketing",
+    "issuer": "National Training Week",
+    "date": "September 2026",
+    "image": "assets/certificate-new-ai-marketing.jpg"
+  },
+  {
+    "title": "AI Prompts for Academic Research",
+    "issuer": "National Training Week",
+    "date": "August 2026",
+    "image": "assets/certificate-new-ai-research.jpg"
+  },
+  {
+    "title": "Cloud Security",
+    "issuer": "IBM SkillsBuild",
+    "date": "September 2026",
+    "image": "assets/certificate-new-cloud-security.jpg"
+  },
+  {
+    "title": "Security Operations and Management",
+    "issuer": "IBM SkillsBuild",
+    "date": "September 2026",
+    "image": "assets/certificate-new-security-operations.jpg"
+  },
+  {
+    "title": "Networking Devices and Initial Configuration",
+    "issuer": "Cisco Networking Academy",
+    "date": "September 2026",
+    "image": "assets/certificate-new-networking-devices.jpg"
   }
-]
+]\n
