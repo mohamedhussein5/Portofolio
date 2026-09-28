@@ -286,5 +286,13 @@
     "Documented attendance at the Tan Sri Leo Moggie Lecture Series and reflected on selected IT-related research exhibits.",
     "Observation; research communication; reflective reporting",
     null
+  ],
+  [
+    "AI-Powered Telegram Expense Assistant",
+    "Data & databases",
+    "Individual AI automation project",
+    "Built a dual-path, event-driven financial assistant on Telegram. The media path processes receipt photos, bank-transfer screenshots and PDFs, combines visual evidence with user captions, extracts strict JSON with Gemini 2.5 Flash and records transactions in Google Sheets. The text path retrieves and aggregates ledger rows so users can ask natural-language questions about weekly, monthly or date-specific spending and receive concise answers in Telegram.",
+    "Make.com; Telegram Bot API; Google Gemini 2.5 Flash; Google Drive; Google Sheets; multimodal extraction; JSON parsing; workflow routing; text aggregation",
+    "telegram-expense-assistant"
   ]
 ]
