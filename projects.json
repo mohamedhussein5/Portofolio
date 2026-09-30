@@ -120,11 +120,11 @@
     null
   ],
   [
-    "Concurrent Card Game Study",
+    "Java Multithreading & Synchronization Labs",
     "Software & systems",
-    "Classroom activity",
-    "Course files explore a card game with participant threads, a moderator and a shared table. This learning activity studies thread coordination and game flow.",
-    "Java threads; shared state; synchronisation concepts",
+    "Java concurrency lab collection",
+    "Developed Java exercises covering worker threads, interleaved execution, thread joining, shared-state coordination and synchronization, alongside a concurrent card-game study.",
+    "Java; multithreading; Thread; join; synchronization; shared state; concurrency",
     null
   ],
   [
@@ -200,11 +200,11 @@
     null
   ],
   [
-    "Fadwa Collection Multimedia Study",
+    "Fadwa Collection Corporate Brand Kit",
     "Business & research",
-    "Individual case study",
-    "Examined a small online business, its products, customers and current digital presence through a corporate multimedia assignment.",
-    "Business analysis; digital presence; corporate multimedia",
+    "Individual corporate multimedia project",
+    "Created a consistent visual identity and corporate materials for Fadwa Collection after analysing its digital communication needs.",
+    "Corporate multimedia; brand strategy; visual identity; logo design; typography; colour system",
     null
   ],
   [
@@ -294,5 +294,21 @@
     "Built a dual-path, event-driven financial assistant on Telegram. The media path processes receipt photos, bank-transfer screenshots and PDFs, combines visual evidence with user captions, extracts strict JSON with Gemini 2.5 Flash and records transactions in Google Sheets. The text path retrieves and aggregates ledger rows so users can ask natural-language questions about weekly, monthly or date-specific spending and receive concise answers in Telegram.",
     "Make.com; Telegram Bot API; Google Gemini 2.5 Flash; Google Drive; Google Sheets; multimodal extraction; JSON parsing; workflow routing; text aggregation",
     "telegram-expense-assistant"
+  ],
+  [
+    "Java Payroll Management System",
+    "Software & systems",
+    "Individual Java project",
+    "Built a Java payroll application with multiple employee types and polymorphic earnings calculations.",
+    "Java; OOP; inheritance; interfaces; polymorphism",
+    null
+  ],
+  [
+    "Network Security & Ethical Hacking Labs",
+    "Networks & computing",
+    "Individual cybersecurity lab portfolio",
+    "Completed Docker, Wireshark, traffic-analysis and ethical-scoping labs in an authorized environment.",
+    "Docker; Wireshark; traffic analysis; ethical hacking; Rules of Engagement",
+    null
   ]
 ]
