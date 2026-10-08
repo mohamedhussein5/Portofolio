@@ -318,5 +318,14 @@
   "36": {
     "reports": [],
     "designs": []
+  },
+  "39": {
+    "reports": [
+      {
+        "file": "reports/starbucks-rewards-offer-response.pdf",
+        "label": "View report"
+      }
+    ],
+    "designs": []
   }
 }

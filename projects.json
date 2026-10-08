@@ -310,5 +310,13 @@
     "Completed Docker, Wireshark, traffic-analysis and ethical-scoping labs in an authorized environment.",
     "Docker; Wireshark; traffic analysis; ethical hacking; Rules of Engagement",
     null
+  ],
+  [
+    "ISYS2800 CW3 Report - Segmenting Starbucks Rewards Members by Offer Response",
+    "Data & databases",
+    "Pair project",
+    "Collaborated on a Business Analytics pair assignment using simulated Starbucks Rewards data: 17,000 member profiles and 306,534 event records. Compared customer segmentation methods and selected five K-Means segments to explore offer response and spending behaviour. The report documents an interactive Tableau dashboard and targeted marketing recommendations. Viewed-before-completed offers were used as a behavioural indicator, not proof of causal impact.",
+    "Customer segmentation; K-Means clustering; data preparation; Tableau; business analytics",
+    null
   ]
 ]
