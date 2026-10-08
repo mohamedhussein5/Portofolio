@@ -65,35 +65,6 @@ project-resources.json  Report and prototype reference inventory
 netlify.toml       Netlify publish configuration
 ```
 
-## View locally
-
-Download or clone this repository, then open `dist/index.html` in a browser. No installation is required. Keep the files and folders together so images and document links continue to work.
-
-## Edit the portfolio
-
-1. Open the repository in Visual Studio Code or another text editor.
-2. Edit `dist/index.html` to update introductions, experience, skills, project entries or certificates.
-3. Adjust `dist/styles.css` and `dist/refresh.css` for visual changes.
-4. Update the corresponding Somali text in `dist/languages.js` when changing visible English content. Project description translations follow the order of project entries on the page; keep both orders aligned when adding or removing projects.
-5. Add images to `dist/assets/` and reports to `dist/reports/`, then link them from the page.
-6. To replace the portrait, update the image file and its `src` path in `dist/index.html`.
-7. Preview the page in both languages, both themes and desktop/mobile layouts before publishing.
-
-To add a project, copy a complete `<details class="project">...</details>` entry in the appropriate category and update its title, description and links. To remove a project, delete its complete entry and corresponding translation. Certificate entries use buttons with the `certificate` class and image paths pointing into `assets/`.
-
-The JSON files are reference inventories. Editing them alone does not update the visible website; keep them consistent with the HTML and translations.
-
-## Publish with Netlify
-
-The Netlify project is connected to this GitHub repository. Changes committed to the `main` branch trigger an automatic deployment.
-
-- **Publish directory:** `dist`
-- **Build command:** None
-- **Configuration:** `netlify.toml`
-- **Live URL:** [https://mohamedhusseinmohamed.netlify.app/](https://mohamedhusseinmohamed.netlify.app/)
-
-For edits made on GitHub, open a file, choose Edit, make the changes and commit them to `main`. For local edits, commit and push them to `main`. Check the Netlify deployment status before sharing the updated website.
-
 ## Documents and credits
 
 Selected reports and evidence are included with their matching projects. Academic group and pair assignments are labelled to distinguish collaborative work from individual projects. Figma prototypes follow their original sharing permissions. Certificate issuers, organisation names and third-party materials belong to their respective owners.
@@ -104,3 +75,4 @@ Selected reports and evidence are included with their matching projects. Academi
 - **Alternative email:** [5566mxm@gmail.com](mailto:5566mxm@gmail.com)
 - **GitHub:** [mohamedhussein5](https://github.com/mohamedhussein5)
 - **Portfolio:** [mohamedhusseinmohamed.netlify.app](https://mohamedhusseinmohamed.netlify.app/)
+
