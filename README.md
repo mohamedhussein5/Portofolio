@@ -1,33 +1,106 @@
-# Mohamed Mohamed Hussein — Portfolio
+# Mohamed Hussein Mhamed — Personal Portfolio
 
-Live website: https://mohamed-hussein-portfolio.rainy-moon-2200.chatgpt.site
+A responsive personal portfolio showcasing my experience in graphic design, social media, multimedia and technology, alongside independent projects, university coursework and professional qualifications.
 
-## View on your computer
-Open dist/index.html in a browser. The website works without installation.
+**Live website:** [mohamedhusseinmohamed.netlify.app](https://mohamedhusseinmohamed.netlify.app/)
 
-## Make changes
-Use a text editor, such as Visual Studio Code or Notepad.
-- dist/index.html: all visible text, About Me, experience, project entries and certificates.
-- dist/styles.css: colours, spacing, type and mobile layout.
-- dist/app.js: certificate and project image viewer.
-- dist/assets/: portrait, certificate images and project previews.
+## About
 
-Search index.html for the title or sentence you want to change.
-To add a project, copy a complete <details class="project">...</details> block in the appropriate category, then edit its text.
-To remove a project, remove that complete block.
-To add a certificate, copy a complete button with class="certificate", update the title and image paths, and place the image in assets.
-To replace your photo, replace assets/mohamed-hussein.jpeg with your new photo, retaining the same filename.
-Keep an extra backup before editing. Open index.html to check your changes.
+I am studying for a Bachelor in Computer Science (Honours) at Kuala Lumpur University of Science and Technology (KLUST), with a focus on data science. I am currently in Semester 5 with a CGPA of 3.7. My background includes more than three years of graphic design experience, teaching, camera work, digital communication and volunteering.
 
-The JSON files are reference inventories; changing them alone does not change the website. Edit dist/index.html to update the displayed content.
+This website brings my creative and technical work together in one place, with supporting reports, certificates and design links.
 
-## Publish updates
-Local edits do not automatically change the live website. Ask your website assistant to publish the updated dist folder to the existing Site. Its identity is in .openai/hosting.json.
-For other static hosting services, publish the contents of dist. No build step is required.
+## Website features
 
-Only the website and its selected previews are included. The original university documents remain in their original folders.
+- Responsive layouts for computers, tablets and phones.
+- Top navigation on desktop and a collapsible mobile menu.
+- Light and dark modes, with the selected theme remembered.
+- English and Somali language switching, with the selected language remembered.
+- Sections for work experience, skills, projects, certificates, education and contact details.
+- Separate independent and academic project collections.
+- Expandable project entries with downloadable reports and available prototype or source-code links.
+- Certificate and project evidence image viewer.
+- Clickable email, WhatsApp, Facebook and GitHub contact links.
 
-## Project reports and design links
-Reports are stored in dist/reports. Each matching project in dist/index.html includes a report link. PDF files open in a new tab; Word reports download for viewing in Word. HCI prototype links are listed in the EcoPulse and KK Rewards project entries. Figma access follows your sharing settings in Figma.
+## Technologies used
 
-The skills and language section is in dist/index.html under id="skills". Project resource inventories are also recorded in project-resources.json for reference.
+| Technology | Purpose |
+| --- | --- |
+| HTML5 | Page structure, content, project entries and accessible navigation |
+| CSS3 | Layout, typography, colours, responsive design and light/dark themes |
+| JavaScript | Mobile navigation, theme switching, language switching and image viewer |
+| JSON | Reference inventories for projects, certificates, experience and resources |
+| Git and GitHub | Version history and source-code hosting |
+| Netlify | Static website hosting and automatic deployment from GitHub |
+
+The portfolio uses plain HTML, CSS and JavaScript. It does not require a framework, package installation or a build step. Project technologies such as Python, Java, SQL, Power BI and Tableau are showcased within the portfolio; they are separate from the website's own implementation.
+
+## Selected projects
+
+- **Telegram AI Expense Assistant:** Independent Make.com automation integrating Telegram, Gemini, Google Drive and Google Sheets for receipt extraction and expense queries.
+- **Starbucks Rewards Offer Response:** Business Analytics pair assignment exploring customer segmentation and offer response using simulated data, with a linked CW3 report.
+- **RavenStack Analytics:** Group Power BI project covering customer retention and recurring revenue.
+- **FastTaxis:** SQL database project implemented with PHP, HTML and CSS.
+- **EcoPulse:** UI/UX designs for an environmental application and website.
+- **Java Hotel Booking System:** Java programming project with a graphical interface.
+
+Additional coursework and supporting evidence are available on the website.
+
+## Repository structure
+
+```text
+dist/
+  index.html       Main content and page structure
+  styles.css       Base styling
+  refresh.css      Responsive layout and theme styling
+  app.js           Navigation, themes and evidence viewer
+  languages.js     English/Somali translations and language switching
+  assets/          Portrait, certificates and project previews
+  reports/         Linked project reports
+  downloads/       Downloadable project resources
+projects.json      Project reference inventory
+certificates.json  Certificate reference inventory
+experience.json    Experience reference inventory
+project-resources.json  Report and prototype reference inventory
+netlify.toml       Netlify publish configuration
+```
+
+## View locally
+
+Download or clone this repository, then open `dist/index.html` in a browser. No installation is required. Keep the files and folders together so images and document links continue to work.
+
+## Edit the portfolio
+
+1. Open the repository in Visual Studio Code or another text editor.
+2. Edit `dist/index.html` to update introductions, experience, skills, project entries or certificates.
+3. Adjust `dist/styles.css` and `dist/refresh.css` for visual changes.
+4. Update the corresponding Somali text in `dist/languages.js` when changing visible English content. Project description translations follow the order of project entries on the page; keep both orders aligned when adding or removing projects.
+5. Add images to `dist/assets/` and reports to `dist/reports/`, then link them from the page.
+6. To replace the portrait, update the image file and its `src` path in `dist/index.html`.
+7. Preview the page in both languages, both themes and desktop/mobile layouts before publishing.
+
+To add a project, copy a complete `<details class="project">...</details>` entry in the appropriate category and update its title, description and links. To remove a project, delete its complete entry and corresponding translation. Certificate entries use buttons with the `certificate` class and image paths pointing into `assets/`.
+
+The JSON files are reference inventories. Editing them alone does not update the visible website; keep them consistent with the HTML and translations.
+
+## Publish with Netlify
+
+The Netlify project is connected to this GitHub repository. Changes committed to the `main` branch trigger an automatic deployment.
+
+- **Publish directory:** `dist`
+- **Build command:** None
+- **Configuration:** `netlify.toml`
+- **Live URL:** [https://mohamedhusseinmohamed.netlify.app/](https://mohamedhusseinmohamed.netlify.app/)
+
+For edits made on GitHub, open a file, choose Edit, make the changes and commit them to `main`. For local edits, commit and push them to `main`. Check the Netlify deployment status before sharing the updated website.
+
+## Documents and credits
+
+Selected reports and evidence are included with their matching projects. Academic group and pair assignments are labelled to distinguish collaborative work from individual projects. Figma prototypes follow their original sharing permissions. Certificate issuers, organisation names and third-party materials belong to their respective owners.
+
+## Contact
+
+- **Email:** [maxamedxuseengeesey8@gmail.com](mailto:maxamedxuseengeesey8@gmail.com)
+- **Alternative email:** [5566mxm@gmail.com](mailto:5566mxm@gmail.com)
+- **GitHub:** [mohamedhussein5](https://github.com/mohamedhussein5)
+- **Portfolio:** [mohamedhusseinmohamed.netlify.app](https://mohamedhusseinmohamed.netlify.app/)
