@@ -345,6 +345,14 @@
       {
         "file": "reports/shopping-system-oop-design.pdf",
         "label": "View report"
+      },
+      {
+        "file": "reports/shopping-system-phase2.docx",
+        "label": "View Phase 2 report"
+      },
+      {
+        "file": "downloads/shopping-system-java-source.zip",
+        "label": "Download source code"
       }
     ],
     "designs": []

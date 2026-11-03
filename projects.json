@@ -320,10 +320,10 @@
     null
   ],
   [
-    "Shopping System — Analysis & UML Design",
+    "Shopping System — OOP Design & Java Implementation",
     "Software & systems",
-    "Pair design assignment",
-    "Collaborated on Phase 1 of a retail shopping system, analysing requirements and designing customers, inventory, carts, discounts, payments and receipts. The report includes UML relationships, a transaction flowchart and exception handling. This entry presents system analysis and design, not a verified completed implementation.",
+    "Pair Java project",
+    "Collaborated on a two-phase Java shopping system: requirements, UML and transaction-flow design, followed by a console implementation with 22 source files. The system manages customers, inventory, carts, discounts, simulated cash/card payments and receipts using inheritance, interfaces, polymorphism and custom exceptions. My documented contribution covers discount policies, payment classes, receipts, checkout calculations and the console interface. The Phase 2 report includes sample outputs, error cases and implementation changes.",
     "Java OOP design; UML; inheritance; interfaces; polymorphism; exception handling",
     null
   ],
