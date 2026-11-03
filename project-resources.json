@@ -217,6 +217,18 @@
       {
         "file": "reports/fadwa-collection-multimedia-study.pdf",
         "label": "View report"
+      },
+      {
+        "file": "reports/fadwa-multimedia-needs-analysis.pdf",
+        "label": "View needs analysis"
+      },
+      {
+        "file": "reports/fadwa-multimedia-solution-design.pdf",
+        "label": "View solution design"
+      },
+      {
+        "file": "reports/fadwa-merchandise-booklet.pdf",
+        "label": "View merchandise booklet"
       }
     ],
     "designs": []
@@ -323,6 +335,90 @@
     "reports": [
       {
         "file": "reports/starbucks-rewards-offer-response.pdf",
+        "label": "View report"
+      }
+    ],
+    "designs": []
+  },
+  "40": {
+    "reports": [
+      {
+        "file": "reports/shopping-system-oop-design.pdf",
+        "label": "View report"
+      }
+    ],
+    "designs": []
+  },
+  "41": {
+    "reports": [
+      {
+        "file": "reports/distributed-banking-simulator.docx",
+        "label": "View report"
+      },
+      {
+        "file": "reports/distributed-banking-presentation.pdf",
+        "label": "View presentation"
+      }
+    ],
+    "designs": []
+  },
+  "42": {
+    "reports": [
+      {
+        "file": "reports/mandelbrot-parallel-processing.docx",
+        "label": "View report"
+      },
+      {
+        "file": "downloads/mandelbrot-source.zip",
+        "label": "Download source code"
+      }
+    ],
+    "designs": []
+  },
+  "43": {
+    "reports": [
+      {
+        "file": "reports/sama-ransomware-investigation.pdf",
+        "label": "View report"
+      },
+      {
+        "file": "reports/sama-ransomware-presentation.pptx",
+        "label": "View presentation"
+      }
+    ],
+    "designs": []
+  },
+  "44": {
+    "reports": [
+      {
+        "file": "reports/dark-web-course-report.pdf",
+        "label": "View report"
+      }
+    ],
+    "designs": []
+  },
+  "45": {
+    "reports": [
+      {
+        "file": "reports/ec-council-group-laboratory.pdf",
+        "label": "View report"
+      }
+    ],
+    "designs": []
+  },
+  "46": {
+    "reports": [
+      {
+        "file": "reports/carry-your-ambition-campaign.pdf",
+        "label": "View report"
+      }
+    ],
+    "designs": []
+  },
+  "47": {
+    "reports": [
+      {
+        "file": "reports/responsible-business-analytics-reflection.pdf",
         "label": "View report"
       }
     ],

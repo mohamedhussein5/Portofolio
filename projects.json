@@ -120,11 +120,11 @@
     null
   ],
   [
-    "Java Multithreading & Synchronization Labs",
+    "Distributed & Parallel Computing Labs",
     "Software & systems",
     "Java concurrency lab collection",
-    "Developed Java exercises covering worker threads, interleaved execution, thread joining, shared-state coordination and synchronization, alongside a concurrent card-game study.",
-    "Java; multithreading; Thread; join; synchronization; shared state; concurrency",
+    "Expanded collection of Java and Python exercises covering process and thread management, synchronization, producer–consumer coordination, executor pools, TCP sockets, multiprocessing, locks, semaphores, parallel algorithms, file processing, task scheduling and performance evaluation. Includes 14 lab reports and corresponding available code. The Python file-processing and scheduling exercises run on one computer.",
+    "Java; Python; sockets; thread pools; multiprocessing; synchronization; performance evaluation",
     null
   ],
   [
@@ -203,7 +203,7 @@
     "Fadwa Collection Corporate Brand Kit",
     "Business & research",
     "Individual corporate multimedia project",
-    "Created a consistent visual identity and corporate materials for Fadwa Collection after analysing its digital communication needs.",
+    "Created a consistent visual identity and corporate materials for Fadwa Collection after analysing its digital communication needs. Additional coursework includes a multimedia-needs analysis, a proposed solution with workflow and budget considerations, and a corporate merchandise concept booklet.",
     "Corporate multimedia; brand strategy; visual identity; logo design; typography; colour system",
     null
   ],
@@ -307,8 +307,8 @@
     "Network Security & Ethical Hacking Labs",
     "Networks & computing",
     "Individual cybersecurity lab portfolio",
-    "Completed Docker, Wireshark, traffic-analysis and ethical-scoping labs in an authorized environment.",
-    "Docker; Wireshark; traffic analysis; ethical hacking; Rules of Engagement",
+    "Completed an authorised cybersecurity lab collection with ten weekly reports covering lab setup, ethical and legal scope, traffic analysis, Nmap scanning, password security and additional practical exercises. Supporting reports document the exercises and evidence in the learning environment.",
+    "Docker; Wireshark; Nmap; password security; ethical scope; security reporting",
     null
   ],
   [
@@ -317,6 +317,70 @@
     "Pair project",
     "Collaborated on a Business Analytics pair assignment using simulated Starbucks Rewards data: 17,000 member profiles and 306,534 event records. Compared customer segmentation methods and selected five K-Means segments to explore offer response and spending behaviour. The report documents an interactive Tableau dashboard and targeted marketing recommendations. Viewed-before-completed offers were used as a behavioural indicator, not proof of causal impact.",
     "Customer segmentation; K-Means clustering; data preparation; Tableau; business analytics",
+    null
+  ],
+  [
+    "Shopping System — Analysis & UML Design",
+    "Software & systems",
+    "Pair design assignment",
+    "Collaborated on Phase 1 of a retail shopping system, analysing requirements and designing customers, inventory, carts, discounts, payments and receipts. The report includes UML relationships, a transaction flowchart and exception handling. This entry presents system analysis and design, not a verified completed implementation.",
+    "Java OOP design; UML; inheritance; interfaces; polymorphism; exception handling",
+    null
+  ],
+  [
+    "Distributed Banking Transaction Simulator",
+    "Software & systems",
+    "Group distributed systems project",
+    "Developed a simulated banking system as part of a group project using Python TCP sockets, a thread pool, SQLite, account locking and backup-log replication. The report documents a three-node virtual-machine cluster, functional tests and performance comparisons. My documented responsibility was data storage, backup replication and the administration console. This is an academic simulation, not a production banking service.",
+    "Python; TCP sockets; SQLite; concurrency control; replication; MPI; cluster computing",
+    null
+  ],
+  [
+    "Mandelbrot Set Generator Using Parallel Processing",
+    "Software & systems",
+    "Individual Python project",
+    "Implemented a Mandelbrot fractal renderer using Python process pools and Pillow. Independent image rows are calculated by worker processes and assembled into a PNG. The report compares sequential and parallel execution using timing, speedup and efficiency measurements.",
+    "Python; ProcessPoolExecutor; Pillow; parallel processing; performance evaluation",
+    null
+  ],
+  [
+    "Sama Solutions Ransomware Investigation",
+    "Networks & computing",
+    "Group simulated forensic investigation",
+    "Collaborated on a fictional ransomware incident investigation for Sama Solutions. The report documents evidence identification and preservation, chain of custody, an incident timeline, analysis, limitations and security recommendations. Findings relate to simulated evidence rather than an investigation of a real organisation.",
+    "Digital forensics; incident response; evidence preservation; chain of custody; reporting",
+    null
+  ],
+  [
+    "Dark Web, Anonymity & Cryptocurrency",
+    "Networks & computing",
+    "Individual course learning report",
+    "Documented learning from an introductory EC-Council course, covering the surface, deep and dark web, Tor, anonymity limits, cryptocurrency pseudonymity and security precautions. Includes reflection, a knowledge-application exercise and course-completion evidence.",
+    "Cybersecurity awareness; privacy; Tor concepts; cryptocurrency; reflective reporting",
+    null
+  ],
+  [
+    "EC-Council Cybersecurity Laboratory Deployment",
+    "Networks & computing",
+    "Group course and lab report",
+    "Contributed to a combined group submission documenting cybersecurity courses and learning exercises, including SQL injection, laboratory setup, Android security and browser automation. The report contains separately attributed teammate sections and my Dark Web course report; it does not represent sole authorship or independently completed practical work in every topic.",
+    "Cybersecurity learning; laboratory documentation; SQL injection awareness; collaborative reporting",
+    null
+  ],
+  [
+    "Carry Your Ambition — Multimedia Campaign",
+    "Networks & computing",
+    "Individual campaign concept",
+    "Developed an academic International Women’s Day campaign proposal for Christy Ng, centred on a proposed Ambition Mini Tote and a detachable goal card. The assessment presents a poster, social media materials, a leaflet and design rationale. AI-assisted starting visuals and written support are acknowledged alongside documented Photoshop work. This is a student concept, not an endorsed company launch.",
+    "Campaign planning; visual communication; Photoshop; social media design; AI-assisted concept development",
+    null
+  ],
+  [
+    "Applying Data Analytics Responsibly",
+    "Networks & computing",
+    "Individual reflective assessment",
+    "Reflected on learning from the Excel and Power BI comparison, RavenStack analytics and Starbucks segmentation assignments. Discussed data preparation, explaining analytical decisions, limitations of models and responsible interpretation of findings. This is a reflective assessment supporting the practical projects already listed.",
+    "Business analytics; data quality; responsible interpretation; reflective writing",
     null
   ]
 ]
