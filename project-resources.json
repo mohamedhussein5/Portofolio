@@ -431,5 +431,23 @@
       }
     ],
     "designs": []
+  },
+  "48": {
+    "reports": [
+      {
+        "file": "reports/cyber-alliance-logo-concept.pdf",
+        "label": "View design rationale"
+      },
+      {
+        "file": "reports/cyber-alliance-winner-certificate.pdf",
+        "label": "View winner certificate"
+      }
+    ],
+    "designs": [
+      {
+        "file": "https://github.com/mohamedhussein5/klust-cyber-alliance-brand-identity",
+        "label": "View GitHub project"
+      }
+    ]
   }
 }
