@@ -37,6 +37,13 @@
     "image": "assets/certificate-aws-cloud-practitioner.jpg"
   },
   {
+    "title": "AWS Security Best Practices: Computing",
+    "issuer": "AWS Training & Certification",
+    "date": "November 2026 · Course completion",
+    "image": "assets/certificate-aws-security-computing.jpg",
+    "certificate": "reports/aws-security-best-practices-computing.pdf"
+  },
+  {
     "title": "Cybersecurity Fundamentals",
     "issuer": "IBM SkillsBuild",
     "date": "August 2026",
