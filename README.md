@@ -1,4 +1,4 @@
-# Mohamed Hussein Mhamed — Personal Portfolio
+# Mohamed Hussein Mohamed — Personal Portfolio
 
 A responsive personal portfolio showcasing my experience in graphic design, social media, multimedia and technology, alongside independent projects, university coursework and professional qualifications.
 
@@ -20,7 +20,8 @@ This website brings my creative and technical work together in one place, with s
 - Separate independent and academic project collections.
 - Expandable project entries with downloadable reports and available prototype or source-code links.
 - Certificate and project evidence image viewer.
-- Clickable email, WhatsApp, Facebook and GitHub contact links.
+- Clickable email, WhatsApp, Facebook, LinkedIn and GitHub contact links.
+- A secure, form-based editing dashboard for portfolio content, powered by Decap CMS and Netlify Identity (account activation required).
 
 ## Technologies used
 
@@ -29,11 +30,13 @@ This website brings my creative and technical work together in one place, with s
 | HTML5 | Page structure, content, project entries and accessible navigation |
 | CSS3 | Layout, typography, colours, responsive design and light/dark themes |
 | JavaScript | Mobile navigation, theme switching, language switching and image viewer |
-| JSON | Reference inventories for projects, certificates, experience and resources |
+| JSON | Structured portfolio content and supporting reference inventories |
 | Git and GitHub | Version history and source-code hosting |
-| Netlify | Static website hosting and automatic deployment from GitHub |
+| Netlify | Website hosting, managed editor authentication and automatic deployment from GitHub |
+| Decap CMS | Forms for editing profile information, certificates, projects, experience and uploads |
+| Node.js | Generates the website from editable content records during deployment |
 
-The portfolio uses plain HTML, CSS and JavaScript. It does not require a framework, package installation or a build step. Project technologies such as Python, Java, SQL, Power BI and Tableau are showcased within the portfolio; they are separate from the website's own implementation.
+The portfolio uses plain HTML, CSS and JavaScript. It does not require a frontend framework. A small Node.js build turns the CMS content records into static HTML during deployment. Project technologies such as Python, Java, SQL, Power BI and Tableau are showcased within the portfolio; they are separate from the website's own implementation.
 
 ## Selected projects
 
@@ -49,8 +52,12 @@ Additional coursework and supporting evidence are available on the website.
 ## Repository structure
 
 ```text
+content/           Editable profile, experience, project and certificate records
+src/               Page template and translation source
+scripts/           Content build and validation
 dist/
-  index.html       Main content and page structure
+  admin/           Form-based content editor
+  index.html       Generated portfolio page
   styles.css       Base styling
   refresh.css      Responsive layout and theme styling
   app.js           Navigation, themes and evidence viewer

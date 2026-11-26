@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "independent-projects",
+      "title": "Independent projects",
+      "title_so": "Mashaariic madax-bannaan"
+    },
+    {
+      "id": "category-0",
+      "title": "Data & databases",
+      "title_so": "Xog iyo kayd-xogeedyo"
+    },
+    {
+      "id": "category-1",
+      "title": "Design & graphics",
+      "title_so": "Naqshad iyo garaafik"
+    },
+    {
+      "id": "category-2",
+      "title": "Software & systems",
+      "title_so": "Barnaamijyo iyo nidaamyo"
+    },
+    {
+      "id": "category-3",
+      "title": "Networks & computing",
+      "title_so": "Shabakado iyo kombiyuutarro"
+    },
+    {
+      "id": "category-4",
+      "title": "Business & research",
+      "title_so": "Ganacsi iyo cilmi-baaris"
+    },
+    {
+      "id": "category-5",
+      "title": "Sustainability & communication",
+      "title_so": "Joogtaynta iyo isgaarsiinta"
+    }
+  ]
+}

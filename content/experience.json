@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "role": "Graphic Designer & Social Media Manager",
+      "role_so": "Naqshadeeye Garaafik iyo Maamule Baraha Bulshada",
+      "organization": "Tech Grow Training and Innovation Center",
+      "status": "Current",
+      "status_so": "Hadda",
+      "description": "Graphic design and social media management for the training and innovation centre.",
+      "description_so": "Naqshadaynta garaafik iyo maamulka baraha bulshada ee xarunta tababarka iyo hal-abuurka."
+    },
+    {
+      "role": "Graphic Designer",
+      "role_so": "Naqshadeeye Garaafik",
+      "organization": "Sahal Institute of Computer and Information Technology",
+      "status": "Current",
+      "status_so": "Hadda",
+      "description": "Graphic designer for the institute.",
+      "description_so": "Naqshadeeyaha garaafik ee machadka."
+    },
+    {
+      "role": "Social Media Officer",
+      "role_so": "Sarkaalka Baraha Bulshada",
+      "organization": "Somali Student Association at KLUST (SSA-KLUST)",
+      "status": "Current · University club",
+      "status_so": "Hadda · Naadi jaamacadeed",
+      "description": "Social media work for the Somali student association at Kuala Lumpur University of Science and Technology.",
+      "description_so": "Hawlaha baraha bulshada ee ururka ardayda Soomaaliyeed ee Kuala Lumpur University of Science and Technology."
+    },
+    {
+      "role": "Head of Multimedia and Creativity",
+      "role_so": "Madaxa Warbaahinta Isku Dhafan iyo Hal-abuurka",
+      "organization": "KLUST – Cyber Alliance",
+      "status": "Current · University club",
+      "status_so": "Hadda · Naadi jaamacadeed",
+      "description": "Head of Multimedia and Creativity for KLUST Cyber Alliance.",
+      "description_so": "Madaxa Warbaahinta Isku Dhafan iyo Hal-abuurka ee KLUST Cyber Alliance."
+    },
+    {
+      "role": "Graphic Design Lecturer",
+      "role_so": "Macallin Naqshadaynta Garaafik",
+      "organization": "Sahal Institute of Computer and Information Technology",
+      "status": "Previous",
+      "status_so": "Hore",
+      "description": "Taught graphic design at the institute.",
+      "description_so": "Waxaan machadka ka dhigay naqshadaynta garaafik."
+    },
+    {
+      "role": "Cameraman",
+      "role_so": "Sawir-qaade",
+      "organization": "New Ways Organization",
+      "status": "Previous",
+      "status_so": "Hore",
+      "description": "Provided photography and video coverage for a Somali humanitarian organisation working across child protection, food security, education, nutrition, health, WASH, peacebuilding and disaster risk reduction.",
+      "description_so": "Waxaan sawirro iyo muuqaallo u duubay urur samafal Soomaaliyeed oo ka shaqeeya ilaalinta carruurta, sugnaanta cuntada, waxbarashada, nafaqada, caafimaadka, biyaha iyo nadaafadda, nabadaynta iyo yareynta khataraha masiibooyinka."
+    },
+    {
+      "role": "Student Registration Volunteer",
+      "role_so": "Tabaruce Diiwaangelinta Ardayda",
+      "organization": "Gargaar Relief Development Organisation (GREDO)",
+      "status": "Volunteer",
+      "status_so": "Tabaruce",
+      "description": "Registered vulnerable and out-of-school children for education support in Merca and nearby Lower Shabelle communities, including Shalambood and Ceel Jaale.",
+      "description_so": "Waxaan carruurta nugul iyo kuwa dugsiyada ka maqan u diiwaangeliyey taageero waxbarasho gudaha Marka iyo deegaannada ku dhow ee Shabeellaha Hoose, oo ay ku jiraan Shalambood iyo Ceel Jaale."
+    },
+    {
+      "role": "Sales & Printing Assistant",
+      "role_so": "Kaaliye Iibka iyo Daabacaadda",
+      "organization": "Naaleeye Business Center · Merca",
+      "status": "Previous",
+      "status_so": "Hore",
+      "description": "Supported sales and produced customised printed products, including T-shirts, mugs and hats.",
+      "description_so": "Waxaan ka shaqeeyey iibka iyo daabacaadda alaabo la habeeyey, sida funaanadaha, koobabka iyo koofiyadaha."
+    },
+    {
+      "role": "Printing & Camera Assistant",
+      "role_so": "Kaaliye Daabacaad iyo Sawir-qaadis",
+      "organization": "Photo Jubba",
+      "status": "Previous",
+      "status_so": "Hore",
+      "description": "Produced invitation cards, signboards and roll-up banners, and supported camera shooting for customer and event work.",
+      "description_so": "Waxaan daabacay kaararka casuumaadda, boorarka iyo roll-up banners, sidoo kalena ka shaqeeyey sawir-qaadista macaamiisha iyo munaasabadaha."
+    },
+    {
+      "role": "Cameraman",
+      "role_so": "Sawir-qaade",
+      "organization": "Merca District Football Association",
+      "status": "Previous",
+      "status_so": "Hore",
+      "description": "Camera work for the district football association.",
+      "description_so": "Sawir-qaadis iyo duubis loogu talagalay xiriirka kubbadda cagta degmada."
+    }
+  ]
+}

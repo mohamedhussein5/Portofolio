@@ -1,0 +1,9 @@
+{
+  "name": "mohamed-hussein-portfolio",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/cms-config.mjs && node scripts/build.mjs",
+    "test": "node scripts/verify-content.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

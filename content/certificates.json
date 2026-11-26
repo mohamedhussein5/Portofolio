@@ -1,0 +1,382 @@
+{
+  "items": [
+    {
+      "title": "KLUST Cyber Alliance Logo Competition — First Place",
+      "issuer": "KLUST Cyber Alliance",
+      "date": "2026 · Winning logo adopted by the club",
+      "image": "assets/cyber-alliance/winner-certificate.jpg",
+      "document": ""
+    },
+    {
+      "title": "Secondary Education Certificate",
+      "issuer": "Ministry of Education, Somalia",
+      "date": "October 2024",
+      "image": "assets/certificate-restored-13.jpg",
+      "document": ""
+    },
+    {
+      "title": "Linguaskill General English — B2",
+      "issuer": "Cambridge English",
+      "date": "February 2025 · Average score 168",
+      "image": "assets/certificate-restored-16.jpg",
+      "document": ""
+    },
+    {
+      "title": "CCNA: Introduction to Networks",
+      "issuer": "Cisco Networking Academy",
+      "date": "April 2026",
+      "image": "assets/certificate-27.jpg",
+      "document": ""
+    },
+    {
+      "title": "Ethical Hacker",
+      "issuer": "Cisco Networking Academy",
+      "date": "August 2026",
+      "image": "assets/certificate-extra-3.jpg",
+      "document": ""
+    },
+    {
+      "title": "AWS Cloud Practitioner Essentials",
+      "issuer": "AWS Training & Certification",
+      "date": "September 2026",
+      "image": "assets/certificate-aws-cloud-practitioner.jpg",
+      "document": ""
+    },
+    {
+      "title": "AWS Security Best Practices: Computing",
+      "issuer": "AWS Training & Certification",
+      "date": "November 2026 · Course completion",
+      "image": "assets/certificate-aws-security-computing.jpg",
+      "document": "reports/aws-security-best-practices-computing.pdf"
+    },
+    {
+      "title": "Cybersecurity Fundamentals",
+      "issuer": "IBM SkillsBuild",
+      "date": "August 2026",
+      "image": "assets/certificate-extra-2.jpg",
+      "document": ""
+    },
+    {
+      "title": "Power BI: Mastering Data Skills",
+      "issuer": "Microsoft Skills for Jobs",
+      "date": "December 2025",
+      "image": "assets/certificate-25.jpg",
+      "document": ""
+    },
+    {
+      "title": "Python Programming Fundamentals",
+      "issuer": "Top Coders Malaysia - Workshop",
+      "date": "2024",
+      "image": "assets/certificate-22.jpg",
+      "document": ""
+    },
+    {
+      "title": "Social Media Management",
+      "issuer": "Meta / Coursera",
+      "date": "April 2026",
+      "image": "assets/certificate-28.jpg",
+      "document": ""
+    },
+    {
+      "title": "Advanced Multimedia: Graphic Design & Video Editing",
+      "issuer": "Tirtiig Online College",
+      "date": "September 2022",
+      "image": "assets/certificate-restored-6.jpg",
+      "document": ""
+    },
+    {
+      "title": "Graphic Design with Adobe Photoshop",
+      "issuer": "Samewade Academy",
+      "date": "November 2022",
+      "image": "assets/certificate-restored-4.jpg",
+      "document": ""
+    },
+    {
+      "title": "Foundations of AI and Machine Learning",
+      "issuer": "Microsoft / Coursera",
+      "date": "March 2025",
+      "image": "assets/certificate-19.jpg",
+      "document": ""
+    },
+    {
+      "title": "Introduction to Artificial Intelligence",
+      "issuer": "IBM / Coursera",
+      "date": "March 2025",
+      "image": "assets/certificate-20.jpg",
+      "document": ""
+    },
+    {
+      "title": "Technical Support Fundamentals",
+      "issuer": "Google / Coursera",
+      "date": "March 2025",
+      "image": "assets/certificate-18.jpg",
+      "document": ""
+    },
+    {
+      "title": "Cloud Security",
+      "issuer": "IBM SkillsBuild",
+      "date": "September 2026",
+      "image": "assets/certificate-new-cloud-security.jpg",
+      "document": ""
+    },
+    {
+      "title": "Incident Response and Systems Forensics",
+      "issuer": "IBM SkillsBuild",
+      "date": "September 2026",
+      "image": "assets/certificate-incident-response-forensics.jpg",
+      "document": ""
+    },
+    {
+      "title": "Security Operations and Management",
+      "issuer": "IBM SkillsBuild",
+      "date": "September 2026",
+      "image": "assets/certificate-new-security-operations.jpg",
+      "document": ""
+    },
+    {
+      "title": "Network Support and Security",
+      "issuer": "Cisco Networking Academy",
+      "date": "September 2026",
+      "image": "assets/certificate-extra-6.jpg",
+      "document": ""
+    },
+    {
+      "title": "Networking Devices and Initial Configuration",
+      "issuer": "Cisco Networking Academy",
+      "date": "September 2026",
+      "image": "assets/certificate-new-networking-devices.jpg",
+      "document": ""
+    },
+    {
+      "title": "Governance, Risk, Compliance, and Data Privacy",
+      "issuer": "IBM SkillsBuild",
+      "date": "August 2026",
+      "image": "assets/certificate-extra-4.jpg",
+      "document": ""
+    },
+    {
+      "title": "System and Network Security",
+      "issuer": "IBM SkillsBuild",
+      "date": "August 2026",
+      "image": "assets/certificate-extra-7.jpg",
+      "document": ""
+    },
+    {
+      "title": "Vulnerability Management",
+      "issuer": "IBM SkillsBuild",
+      "date": "August 2026",
+      "image": "assets/certificate-extra-8.jpg",
+      "document": ""
+    },
+    {
+      "title": "AWS Compute Services Overview",
+      "issuer": "AWS Training & Certification",
+      "date": "August 2026",
+      "image": "assets/certificate-extra-0.jpg",
+      "document": ""
+    },
+    {
+      "title": "Generative AI for Executives",
+      "issuer": "AWS Training & Certification",
+      "date": "August 2026",
+      "image": "assets/certificate-extra-1.jpg",
+      "document": ""
+    },
+    {
+      "title": "TUNE Series 2026",
+      "issuer": "Kuala Lumpur University of Science and Technology",
+      "date": "September 2026 · Participation",
+      "image": "assets/certificate-tune-series-2026.jpg",
+      "document": ""
+    },
+    {
+      "title": "Generative AI: Introduction and Applications",
+      "issuer": "IBM / Coursera",
+      "date": "February 2025",
+      "image": "assets/certificate-15.jpg",
+      "document": ""
+    },
+    {
+      "title": "Report Writing Skills",
+      "issuer": "Basqar Academy",
+      "date": "May 2025",
+      "image": "assets/certificate-21.jpg",
+      "document": ""
+    },
+    {
+      "title": "Project Management Fundamentals",
+      "issuer": "Basqar Academy",
+      "date": "August 2024",
+      "image": "assets/certificate-11.jpg",
+      "document": ""
+    },
+    {
+      "title": "NGOs Management",
+      "issuer": "Basqar Academy",
+      "date": "June 2024",
+      "image": "assets/certificate-10.jpg",
+      "document": ""
+    },
+    {
+      "title": "Ready 4 Success Workshop Series",
+      "issuer": "KLUST",
+      "date": "2026",
+      "image": "assets/certificate-29.jpg",
+      "document": ""
+    },
+    {
+      "title": "Network Addressing and Basic Troubleshooting",
+      "issuer": "Cisco Networking Academy",
+      "date": "August 2026",
+      "image": "assets/certificate-extra-5.jpg",
+      "document": ""
+    },
+    {
+      "title": "Computer Applications Training",
+      "issuer": "Sahal Institute",
+      "date": "2019",
+      "image": "assets/certificate-restored-1.jpg",
+      "document": ""
+    },
+    {
+      "title": "Basic Information Technology Diploma",
+      "issuer": "Sahal Institute",
+      "date": "2020",
+      "image": "assets/certificate-restored-2.jpg",
+      "document": ""
+    },
+    {
+      "title": "First Aid Training",
+      "issuer": "Somali Red Crescent Society — Merca Branch",
+      "date": "July 2022 · Historical training",
+      "image": "assets/certificate-restored-3.jpg",
+      "document": ""
+    },
+    {
+      "title": "English Language — Grade A",
+      "issuer": "Oxford Institute of Languages, Somalia",
+      "date": "March 2023",
+      "image": "assets/certificate-restored-5.jpg",
+      "document": ""
+    },
+    {
+      "title": "Self Development Seminar",
+      "issuer": "Marka University",
+      "date": "June 2023",
+      "image": "assets/certificate-restored-7.jpg",
+      "document": ""
+    },
+    {
+      "title": "Certificate of Appreciation",
+      "issuer": "Shine",
+      "date": "May 2023",
+      "image": "assets/certificate-restored-8.jpg",
+      "document": ""
+    },
+    {
+      "title": "Certificate of Appreciation",
+      "issuer": "Sahal Institute of Computer and Information Technology",
+      "date": "September 2024",
+      "image": "assets/certificate-restored-12.jpg",
+      "document": ""
+    },
+    {
+      "title": "Top Coders Coding Challenge",
+      "issuer": "Data Science Association / IUKL",
+      "date": "May 2025",
+      "image": "assets/certificate-restored-23.jpg",
+      "document": ""
+    },
+    {
+      "title": "Everything About IELTS: An Expert Guide",
+      "issuer": "Aqoonyahan Organization",
+      "date": "July 2025 · Participation",
+      "image": "assets/certificate-restored-24.jpg",
+      "document": ""
+    },
+    {
+      "title": "Parallel Programming Concepts",
+      "issuer": "openHPI",
+      "date": "Confirmation of participation",
+      "image": "assets/certificate-added-34.jpg",
+      "document": ""
+    },
+    {
+      "title": "Critical Thinking and Decision-Making",
+      "issuer": "LearnFree.org",
+      "date": "August 2026",
+      "image": "assets/certificate-added-35.jpg",
+      "document": ""
+    },
+    {
+      "title": "Android Bug Bounty Hunting: Hunt Like a Rat",
+      "issuer": "EC-Council CodeRed",
+      "date": "July 2026 · Course completion",
+      "image": "assets/certificate-course-7.jpg",
+      "document": ""
+    },
+    {
+      "title": "Cybersecurity for Businesses — The Fundamental Edition",
+      "issuer": "EC-Council CodeRed",
+      "date": "August 2026 · Course completion",
+      "image": "assets/certificate-course-8.jpg",
+      "document": ""
+    },
+    {
+      "title": "Introduction to Dark Web, Anonymity, and Cryptocurrency",
+      "issuer": "EC-Council CodeRed",
+      "date": "August 2026 · Course completion",
+      "image": "assets/certificate-course-9.jpg",
+      "document": ""
+    },
+    {
+      "title": "Make In-house Hacking & Pentesting Lab",
+      "issuer": "EC-Council CodeRed",
+      "date": "August 2026 · Course completion",
+      "image": "assets/certificate-course-10.jpg",
+      "document": ""
+    },
+    {
+      "title": "Selenium Automation Testing for Beginners",
+      "issuer": "EC-Council CodeRed",
+      "date": "August 2026 · Course completion",
+      "image": "assets/certificate-course-11.jpg",
+      "document": ""
+    },
+    {
+      "title": "SQL Injection Attacks",
+      "issuer": "EC-Council CodeRed",
+      "date": "August 2026 · Course completion",
+      "image": "assets/certificate-course-12.jpg",
+      "document": ""
+    },
+    {
+      "title": "Artificial Intelligence for Everyone",
+      "issuer": "National Training Week",
+      "date": "August 2026",
+      "image": "assets/certificate-new-ai-everyone.jpg",
+      "document": ""
+    },
+    {
+      "title": "AI for Entrepreneurship and Freelancing",
+      "issuer": "National Training Week",
+      "date": "September 2026",
+      "image": "assets/certificate-new-ai-entrepreneurship.jpg",
+      "document": ""
+    },
+    {
+      "title": "AI-Driven Digital Marketing",
+      "issuer": "National Training Week",
+      "date": "September 2026",
+      "image": "assets/certificate-new-ai-marketing.jpg",
+      "document": ""
+    },
+    {
+      "title": "AI Prompts for Academic Research",
+      "issuer": "National Training Week",
+      "date": "August 2026",
+      "image": "assets/certificate-new-ai-research.jpg",
+      "document": ""
+    }
+  ]
+}

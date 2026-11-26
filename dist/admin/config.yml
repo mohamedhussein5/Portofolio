@@ -1,0 +1,464 @@
+{
+  "backend": {
+    "name": "git-gateway",
+    "branch": "main"
+  },
+  "site_url": "https://mohamedhusseinmohamed.netlify.app",
+  "display_url": "https://mohamedhusseinmohamed.netlify.app",
+  "logo_url": "/favicon.svg",
+  "media_folder": "dist/assets/uploads",
+  "public_folder": "/assets/uploads",
+  "publish_mode": "simple",
+  "editor": {
+    "preview": false
+  },
+  "collections": [
+    {
+      "name": "portfolio",
+      "label": "Manage portfolio",
+      "description": "Edit your content, upload files and publish. The order of list items controls their order on the website. Changes go live after Netlify finishes deploying.",
+      "files": [
+        {
+          "name": "profile",
+          "label": "Profile, About, skills & contact",
+          "file": "content/profile.json",
+          "format": "json",
+          "fields": [
+            {
+              "name": "name",
+              "label": "Your full name",
+              "widget": "string"
+            },
+            {
+              "name": "headline",
+              "label": "Introduction heading",
+              "widget": "string"
+            },
+            {
+              "name": "headline_so",
+              "label": "Introduction heading — Somali",
+              "widget": "string",
+              "required": false,
+              "hint": "Optional. English is shown if this translation is empty."
+            },
+            {
+              "name": "intro",
+              "label": "Introduction",
+              "widget": "text"
+            },
+            {
+              "name": "intro_so",
+              "label": "Introduction — Somali",
+              "widget": "text",
+              "required": false,
+              "hint": "Optional. English is shown if this translation is empty."
+            },
+            {
+              "name": "portrait",
+              "label": "Profile photo",
+              "widget": "image"
+            },
+            {
+              "name": "degree",
+              "label": "Degree",
+              "widget": "string"
+            },
+            {
+              "name": "degree_so",
+              "label": "Degree — Somali",
+              "widget": "string",
+              "required": false,
+              "hint": "Optional. English is shown if this translation is empty."
+            },
+            {
+              "name": "university",
+              "label": "University",
+              "widget": "string"
+            },
+            {
+              "name": "university_so",
+              "label": "University — Somali",
+              "widget": "string",
+              "required": false,
+              "hint": "Optional. English is shown if this translation is empty."
+            },
+            {
+              "name": "progress",
+              "label": "Semester and CGPA",
+              "widget": "string"
+            },
+            {
+              "name": "progress_so",
+              "label": "Semester and CGPA — Somali",
+              "widget": "string",
+              "required": false,
+              "hint": "Optional. English is shown if this translation is empty."
+            },
+            {
+              "name": "years",
+              "label": "Graphic design experience",
+              "widget": "string"
+            },
+            {
+              "name": "about_title",
+              "label": "About heading — first line",
+              "widget": "string"
+            },
+            {
+              "name": "about_title_so",
+              "label": "About heading — first line — Somali",
+              "widget": "string",
+              "required": false,
+              "hint": "Optional. English is shown if this translation is empty."
+            },
+            {
+              "name": "about_subtitle",
+              "label": "About heading — second line",
+              "widget": "string"
+            },
+            {
+              "name": "about_subtitle_so",
+              "label": "About heading — second line — Somali",
+              "widget": "string",
+              "required": false,
+              "hint": "Optional. English is shown if this translation is empty."
+            },
+            {
+              "name": "about",
+              "label": "About paragraphs",
+              "widget": "list",
+              "collapsed": true,
+              "fields": [
+                {
+                  "name": "text",
+                  "label": "Paragraph",
+                  "widget": "text"
+                },
+                {
+                  "name": "text_so",
+                  "label": "Paragraph — Somali",
+                  "widget": "text",
+                  "required": false,
+                  "hint": "Optional. English is shown if this translation is empty."
+                }
+              ]
+            },
+            {
+              "name": "facts",
+              "label": "About information",
+              "widget": "list",
+              "collapsed": true,
+              "fields": [
+                {
+                  "name": "label",
+                  "label": "Label",
+                  "widget": "string"
+                },
+                {
+                  "name": "value",
+                  "label": "Value",
+                  "widget": "string"
+                },
+                {
+                  "name": "value_so",
+                  "label": "Value — Somali",
+                  "widget": "string",
+                  "required": false,
+                  "hint": "Optional. English is shown if this translation is empty."
+                }
+              ]
+            },
+            {
+              "name": "skill_groups",
+              "label": "Skills and languages",
+              "widget": "list",
+              "collapsed": true,
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "Group title",
+                  "widget": "string"
+                },
+                {
+                  "name": "items",
+                  "label": "Skills / languages",
+                  "widget": "list",
+                  "collapsed": true,
+                  "fields": [
+                    {
+                      "name": "name",
+                      "label": "Skill or language",
+                      "widget": "string"
+                    },
+                    {
+                      "name": "detail",
+                      "label": "Language proficiency (leave empty for skills)",
+                      "widget": "string",
+                      "required": false
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "contacts",
+              "label": "Contact and social links",
+              "widget": "list",
+              "collapsed": true,
+              "fields": [
+                {
+                  "name": "label",
+                  "label": "Label",
+                  "widget": "string"
+                },
+                {
+                  "name": "name",
+                  "label": "Displayed text",
+                  "widget": "string"
+                },
+                {
+                  "name": "url",
+                  "label": "Link",
+                  "widget": "string",
+                  "hint": "Use https:// for websites, mailto: for email, or tel: for calls."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "certificates",
+          "label": "Certificates & awards",
+          "file": "content/certificates.json",
+          "format": "json",
+          "fields": [
+            {
+              "name": "items",
+              "label": "Certificates",
+              "widget": "list",
+              "collapsed": true,
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "Certificate title",
+                  "widget": "string"
+                },
+                {
+                  "name": "issuer",
+                  "label": "Issuing organization",
+                  "widget": "string"
+                },
+                {
+                  "name": "date",
+                  "label": "Date / qualification details",
+                  "widget": "string"
+                },
+                {
+                  "name": "image",
+                  "label": "Certificate preview image",
+                  "widget": "image",
+                  "required": false
+                },
+                {
+                  "name": "document",
+                  "label": "Original PDF",
+                  "widget": "file",
+                  "required": false,
+                  "media_folder": "/dist/reports/uploads",
+                  "public_folder": "/reports/uploads",
+                  "hint": "Upload a PDF. Add a preview image too if you want an image card; otherwise visitors open the PDF directly."
+                }
+              ],
+              "summary": "{{fields.title}} — {{fields.issuer}}"
+            }
+          ]
+        },
+        {
+          "name": "projects",
+          "label": "Projects",
+          "file": "content/projects.json",
+          "format": "json",
+          "fields": [
+            {
+              "name": "items",
+              "label": "Projects",
+              "widget": "list",
+              "collapsed": true,
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "Project title",
+                  "widget": "string"
+                },
+                {
+                  "name": "category",
+                  "label": "Project group",
+                  "widget": "select",
+                  "options": [
+                    {
+                      "label": "Independent projects",
+                      "value": "independent-projects"
+                    },
+                    {
+                      "label": "Academic — Data & databases",
+                      "value": "category-0"
+                    },
+                    {
+                      "label": "Academic — Design & graphics",
+                      "value": "category-1"
+                    },
+                    {
+                      "label": "Academic — Software & systems",
+                      "value": "category-2"
+                    },
+                    {
+                      "label": "Academic — Networks & computing",
+                      "value": "category-3"
+                    },
+                    {
+                      "label": "Academic — Business & research",
+                      "value": "category-4"
+                    },
+                    {
+                      "label": "Academic — Sustainability & communication",
+                      "value": "category-5"
+                    }
+                  ]
+                },
+                {
+                  "name": "kind",
+                  "label": "Type / your contribution",
+                  "widget": "string"
+                },
+                {
+                  "name": "description",
+                  "label": "Project description",
+                  "widget": "text"
+                },
+                {
+                  "name": "description_so",
+                  "label": "Project description — Somali",
+                  "widget": "text",
+                  "required": false,
+                  "hint": "Optional. English is shown if this translation is empty."
+                },
+                {
+                  "name": "methods",
+                  "label": "Tools, technology and methods",
+                  "widget": "text",
+                  "required": false
+                },
+                {
+                  "name": "images",
+                  "label": "Screenshots and previews",
+                  "widget": "list",
+                  "collapsed": true,
+                  "fields": [
+                    {
+                      "name": "label",
+                      "label": "Caption",
+                      "widget": "string"
+                    },
+                    {
+                      "name": "image",
+                      "label": "Image",
+                      "widget": "image"
+                    }
+                  ],
+                  "required": false
+                },
+                {
+                  "name": "links",
+                  "label": "Report, code and design links",
+                  "widget": "list",
+                  "collapsed": true,
+                  "fields": [
+                    {
+                      "name": "label",
+                      "label": "Button label",
+                      "widget": "string"
+                    },
+                    {
+                      "name": "url",
+                      "label": "URL or uploaded report",
+                      "widget": "file",
+                      "media_folder": "/dist/reports/uploads",
+                      "public_folder": "/reports/uploads",
+                      "hint": "Upload a report or select Insert from URL for a GitHub, Figma or other https:// link."
+                    }
+                  ],
+                  "required": false
+                },
+                {
+                  "name": "anchor",
+                  "label": "Section link ID (normally leave unchanged)",
+                  "widget": "string",
+                  "required": false
+                }
+              ],
+              "summary": "{{fields.title}}"
+            }
+          ]
+        },
+        {
+          "name": "experience",
+          "label": "Work & volunteer experience",
+          "file": "content/experience.json",
+          "format": "json",
+          "fields": [
+            {
+              "name": "items",
+              "label": "Experience",
+              "widget": "list",
+              "collapsed": true,
+              "fields": [
+                {
+                  "name": "role",
+                  "label": "Role",
+                  "widget": "string"
+                },
+                {
+                  "name": "role_so",
+                  "label": "Role — Somali",
+                  "widget": "string",
+                  "required": false,
+                  "hint": "Optional. English is shown if this translation is empty."
+                },
+                {
+                  "name": "organization",
+                  "label": "Organization",
+                  "widget": "string"
+                },
+                {
+                  "name": "status",
+                  "label": "Current / Previous / Volunteer",
+                  "widget": "string"
+                },
+                {
+                  "name": "status_so",
+                  "label": "Current / Previous / Volunteer — Somali",
+                  "widget": "string",
+                  "required": false,
+                  "hint": "Optional. English is shown if this translation is empty."
+                },
+                {
+                  "name": "description",
+                  "label": "Responsibilities",
+                  "widget": "text"
+                },
+                {
+                  "name": "description_so",
+                  "label": "Responsibilities — Somali",
+                  "widget": "text",
+                  "required": false,
+                  "hint": "Optional. English is shown if this translation is empty."
+                }
+              ],
+              "summary": "{{fields.role}} — {{fields.organization}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

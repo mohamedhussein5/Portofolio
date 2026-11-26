@@ -14,3 +14,7 @@ html{scroll-padding-top:110px}body{background:var(--bg);transition:background .2
 
 /* Emphasise employers and organisations in both themes. */
 .experience-card h4{display:block;width:fit-content;max-width:100%;padding:10px 14px;margin:14px 0 16px;border-left:3px solid var(--accent);border-radius:0 8px 8px 0;background:var(--soft);color:var(--accent);font-size:16px;font-weight:750;line-height:1.5;overflow-wrap:anywhere}.experience-card h3{line-height:1.4}@media(max-width:760px){.experience-card h4{font-size:15px;padding:10px 12px}}
+
+/* PDF-only certificates uploaded through the editor. */
+.certificate-pdf{display:flex;align-items:center;justify-content:center;flex-direction:column;min-height:160px;font-weight:700;background:var(--surface,#15253d);color:var(--text,#fff)}
+a.certificate{text-decoration:none;color:inherit}

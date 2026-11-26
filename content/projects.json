@@ -1,0 +1,947 @@
+{
+  "items": [
+    {
+      "title": "AI-Powered Telegram Expense Assistant",
+      "category": "independent-projects",
+      "kind": "Individual AI automation project",
+      "description": "Built a dual-path, event-driven financial assistant on Telegram. The media path processes receipt photos, bank-transfer screenshots and PDFs, combines visual evidence with user captions, extracts strict JSON with Gemini 2.5 Flash and records transactions in Google Sheets. The text path retrieves and aggregates ledger rows so users can ask natural-language questions about weekly, monthly or date-specific spending and receive concise answers in Telegram.",
+      "description_so": "Waxaan dhisay kaaliye maaliyadeed oo Telegram ah oo leh laba hab-socod. Sawirrada rasiidyada, wareejinta bangiga iyo PDF-yada waxaa lagu daraa qoraalka isticmaalaha; Gemini 2.5 Flash wuxuu ka soo saaraa JSON, macaamilladana waxaa lagu kaydiyaa Google Sheets. Habka qoraalku wuxuu isu geeyaa xogta si looga jawaabo su’aalaha kharashaadka toddobaadle, bille ama maalin gaar ah.",
+      "methods": "Make.com; Telegram Bot API; Google Gemini 2.5 Flash; Google Drive; Google Sheets; multimodal extraction; JSON parsing; workflow routing; text aggregation",
+      "images": [
+        {
+          "label": "AI-Powered Telegram Expense Assistant — dual-path Make.com workflow",
+          "image": "assets/project-telegram-expense-assistant.png"
+        },
+        {
+          "label": "Telegram Expense Assistant — successful receipt extraction results",
+          "image": "assets/telegram-receipt-extraction-results.jpg"
+        },
+        {
+          "label": "Telegram Expense Assistant — successful natural-language spending query",
+          "image": "assets/telegram-spending-query-result.jpg"
+        }
+      ],
+      "links": [
+        {
+          "label": "View GitHub project",
+          "url": "https://github.com/mohamedhussein5/telegram-ai-expense-assistant"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "KLUST Cyber Alliance — Winning Logo & Brand Identity",
+      "category": "independent-projects",
+      "kind": "Independent design · Competition winner",
+      "description": "Designed the winning entry for the KLUST Cyber Alliance Logo Design Competition 2026. The club adopted the logo as its identity. The concept combines technology, protection, security, unity and global connectivity around the message “United Today — Secure Tomorrow,” using blue, black and white. The project includes editable Illustrator artwork, logo variations, concept development, application mockups, a first-place certificate, a winner’s plaque and presentation photographs. Mockups demonstrate proposed applications; they are not claims of manufactured merchandise.",
+      "description_so": "Waxaan naqshadeeyey astaantii ku guulaysatay tartanka KLUST Cyber Alliance 2026, naadiguna wuxuu u adeegsaday aqoonsigiisa. Fikraddu waxay isku daraysaa tiknoolaji, ilaalin, amni, midnimo iyo isku-xirnaan caalami ah, iyadoo leh buluug, madow iyo caddaan. Waxaa ku jira faylasha Illustrator, noocyada astaanta, fikradaha, tusaalooyinka isticmaalka, shahaadada kaalinta koowaad, abaalmarinta iyo sawirrada bandhigga. Mockups-ku waa tusaalooyin naqshadeed, mana sheegayaan badeecooyin la soo saaray.",
+      "methods": "Adobe Illustrator; logo design; visual identity; typography; colour systems; brand applications",
+      "images": [
+        {
+          "label": "Logo concept & visual identity",
+          "image": "assets/cyber-alliance/identity-board.jpg"
+        },
+        {
+          "label": "Competition winner’s plaque",
+          "image": "assets/cyber-alliance/winner-plaque.jpeg"
+        },
+        {
+          "label": "Certificate presentation",
+          "image": "assets/cyber-alliance/certificate-presentation.jpeg"
+        },
+        {
+          "label": "Award presentation",
+          "image": "assets/cyber-alliance/award-presentation.jpeg"
+        },
+        {
+          "label": "Lanyard concept mockup",
+          "image": "assets/cyber-alliance/lanyard.jpg"
+        },
+        {
+          "label": "Letterhead concept mockup",
+          "image": "assets/cyber-alliance/letterhead.jpg"
+        }
+      ],
+      "links": [
+        {
+          "label": "View design rationale",
+          "url": "reports/cyber-alliance-logo-concept.pdf"
+        },
+        {
+          "label": "View winner certificate",
+          "url": "reports/cyber-alliance-winner-certificate.pdf"
+        },
+        {
+          "label": "Download design resources",
+          "url": "downloads/cyber-alliance-design-resources.zip"
+        },
+        {
+          "label": "View GitHub project",
+          "url": "https://github.com/mohamedhussein5/klust-cyber-alliance-brand-identity"
+        }
+      ],
+      "anchor": "cyber-alliance-project"
+    },
+    {
+      "title": "RavenStack Customer Retention & Revenue Analytics",
+      "category": "category-0",
+      "kind": "Group Power BI project",
+      "description": "Analysed five connected datasets for a simulated SaaS business with 500 accounts. The team created descriptive, diagnostic and predictive dashboards covering churn, customer risk and recurring revenue. My documented contribution: dataset preparation, data cleaning, data modelling and relationships in Power BI, plus support for dashboard visuals and DAX measures. The report records a 22% churn rate and 78 active accounts classified as high risk. Risk classification was rule-based; the dataset is simulated.",
+      "description_so": "Waxaan falanqaynay shan xog-ururin oo isku xiran oo ganacsi SaaS la matalay leh 500 akoon. Kooxdu waxay dhistay dashboards ku saabsan macaamiisha baxaysa, khataraha iyo dakhliga soo noqnoqda. Doorkaygu wuxuu ahaa diyaarinta iyo nadiifinta xogta, samaynta xiriirrada iyo moodeelka Power BI, iyo taageeridda muuqaalada iyo cabbirrada DAX. Warbixintu waxay diiwaangelisay bixitaan 22% ah iyo 78 akoon oo firfircoon oo khatar sare leh. Kala saaristu waxay ku salaysnayd xeerar, xogtuna waa mid la matalay.",
+      "methods": "Power BI; data preparation; relational modelling; DAX; dashboard development; three-month MRR forecast",
+      "images": [
+        {
+          "label": "RavenStack Customer Retention & Revenue Analytics — report excerpt",
+          "image": "assets/project-ravenstack.jpg"
+        }
+      ],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/ravenstack-analytics.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Retail Sales: Excel & Power BI",
+      "category": "category-0",
+      "kind": "Individual project",
+      "description": "Compared Excel and Power BI using a filtered Sample Superstore dataset: Central region orders from 2017. Validated duplicates and data types, then built category comparisons and monthly sales views.",
+      "description_so": "Waxaan isbarbardhigay Excel iyo Power BI anigoo adeegsanaya xogta Sample Superstore ee dalabyada gobolka Central ee 2017. Waxaan hubiyey xogta soo noqnoqota iyo noocyada xogta, kadibna sameeyey isbarbardhigyo qaybaha alaabta iyo iibka bil kasta.",
+      "methods": "Excel PivotTables and PivotCharts; COUNTIFS checks; Power Query; Power BI cards and charts",
+      "images": [
+        {
+          "label": "Retail Sales: Excel & Power BI — report excerpt",
+          "image": "assets/project-38.jpg"
+        }
+      ],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/retail-sales-excel-power-bi.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "FastTaxis Database Application",
+      "category": "category-0",
+      "kind": "Group project",
+      "description": "A relational database prototype for taxi operations, connecting vehicles, drivers, clients, bookings and maintenance. The team report documents dashboards for directors, staff, drivers and owners, with SQL-based reporting.",
+      "description_so": "Tusaale kayd-xogeed xiriiriye ah oo hawlaha tagaasida loogu talagalay, kuna xira baabuurta, darawallada, macaamiisha, dalabyada iyo dayactirka. Warbixinta kooxdu waxay sharxaysaa dashboards-ka maamulka, shaqaalaha, darawallada iyo milkiilayaasha iyo warbixinno SQL ah.",
+      "methods": "MySQL; PHP; HTML & CSS; XAMPP; relational database design",
+      "images": [
+        {
+          "label": "FastTaxis Database Application — report excerpt",
+          "image": "assets/project-21.jpg"
+        }
+      ],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/fasttaxis-database-application.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Data Mining & Data Warehousing",
+      "category": "category-0",
+      "kind": "Individual research",
+      "description": "Reviewed five journal articles and white papers covering cloud data warehouses, data mining adoption, autonomous databases and healthcare applications.",
+      "description_so": "Waxaan dib u eegay shan maqaal iyo warbixin cilmiyeed oo ku saabsan kaydinta xogta daruurta, adeegsiga data mining, kayd-xogeedyo is-maamula iyo adeegyada caafimaadka.",
+      "methods": "Literature review; comparative analysis; research synthesis",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/data-mining-data-warehousing.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Database Concepts Portfolio",
+      "category": "category-0",
+      "kind": "Coursework portfolio",
+      "description": "A collection of database exercises and supporting work, including hotel and clinic SQL scripts, entity-relationship diagrams, an Access database and Microsoft Azure study material.",
+      "description_so": "Ururin layliyo kayd-xogeed ah: koodhka SQL ee hoteel iyo xarun caafimaad, jaantusyada xiriirka xogta, kayd Microsoft Access iyo agab waxbarasho Microsoft Azure.",
+      "methods": "SQL; ER modelling; Microsoft Access; database fundamentals",
+      "images": [],
+      "links": [],
+      "anchor": ""
+    },
+    {
+      "title": "Segmenting Starbucks Rewards Members by Offer Response",
+      "category": "category-0",
+      "kind": "Pair project",
+      "description": "Collaborated on a Business Analytics pair assignment using simulated Starbucks Rewards data: 17,000 member profiles and 306,534 event records. Compared customer segmentation methods and selected five K-Means segments to explore offer response and spending behaviour. The report documents an interactive Tableau dashboard and targeted marketing recommendations. Viewed-before-completed offers were used as a behavioural indicator, not proof of causal impact.",
+      "description_so": "Waxaan wadajir u qabanay mashruuc laba qof ah oo Business Analytics ah, annagoo adeegsanayna xog la matalay oo Starbucks Rewards ah: 17,000 xubnood iyo 306,534 diiwaan. Waxaan isbarbardhignay hababka kala qaybinta macaamiisha, waxaana doorannay shan qaybood oo K-Means ah si loo fahmo jawaabta dalabyada iyo kharashka. Warbixintu waxay sharxaysaa dashboard Tableau ah iyo talooyin suuqgeyn. Daawashada dalab ka hor dhammaystirkiisu waa tilmaame dhaqan, mana caddaynayso saamayn sababaysan.",
+      "methods": "Customer segmentation; K-Means clustering; data preparation; Tableau; business analytics",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/starbucks-rewards-offer-response.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "EcoPulse Environmental Platform",
+      "category": "category-1",
+      "kind": "Individual UI/UX project",
+      "description": "Designed an environmental awareness campaign platform as an HCI final assessment, covering user experience planning, user needs and interface design.",
+      "description_so": "Waxaan naqshadeeyey madal wacyigelin deegaan ah oo ahayd qiimaynta kama dambaysta ah ee HCI, kuna saabsan qorshaynta khibradda isticmaalaha, baahiyaha isticmaalaha iyo naqshadda interface-ka.",
+      "methods": "Figma; user experience planning; interface design; HCI",
+      "images": [
+        {
+          "label": "EcoPulse Environmental Platform — report excerpt",
+          "image": "assets/project-30.jpg"
+        }
+      ],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/ecopulse-environmental-platform-1.pdf"
+        },
+        {
+          "label": "View supporting document",
+          "url": "reports/ecopulse-environmental-platform-2.pdf"
+        },
+        {
+          "label": "View desktop design",
+          "url": "https://www.figma.com/proto/cPHdrHMQPptAuH0JZt9TCt/Mohamed-Hussein-s-team-library?node-id=3311-183&p=f&t=kMdEUnyVS4qCJgn6-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1"
+        },
+        {
+          "label": "View mobile design",
+          "url": "https://www.figma.com/proto/yCWtA8N46FW2VzonCw5sx5/EcoPulse?node-id=1-2&p=f&t=2xa4uyNtTiwYQsqE-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "KK Rewards App Redesign",
+      "category": "category-1",
+      "kind": "Individual UI/UX project",
+      "description": "Evaluated the KK Super Mart mobile app using field observations at the De Centrum branch. Analysed barriers around membership barcodes, vouchers and accessibility to inform a redesign.",
+      "description_so": "Waxaan app-ka KK Super Mart ku qiimeeyey indho-indhayn goobta De Centrum. Waxaan falanqeeyey caqabadaha barcode-ka xubinnimada, vouchers-ka iyo fududaynta isticmaalka si aan ugu saleeyo dib-u-naqshadayn.",
+      "methods": "Field observation; usability analysis; interface redesign",
+      "images": [
+        {
+          "label": "KK Rewards App Redesign — report excerpt",
+          "image": "assets/project-31.jpg"
+        }
+      ],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/kk-rewards-app-redesign.pdf"
+        },
+        {
+          "label": "View app design",
+          "url": "https://www.figma.com/proto/rNY2DMjLGPkpYHJUWVbOp9/Individual-Assignment-re-designing-KK---Mohamed-Hussein--251925403?node-id=23-183&p=f&t=RxGDu6PrDaC2vvvf-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A596&show-proto-sidebar=1"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "3D School Classroom",
+      "category": "category-1",
+      "kind": "Individual programming project",
+      "description": "Created an OpenGL classroom scene using furniture built from basic shapes, hierarchical modelling, a day/night lighting cycle and a working door.",
+      "description_so": "Waxaan OpenGL ku sameeyey fasal 3D ah oo leh alaab ka samaysan qaabab aasaasi ah, moodeel kala sarreeya, iftiin maalin iyo habeen ah iyo albaab shaqaynaya.",
+      "methods": "C++; OpenGL; GLUT; hierarchical modelling; lighting",
+      "images": [
+        {
+          "label": "3D School Classroom — report excerpt",
+          "image": "assets/project-17.jpg"
+        }
+      ],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/3d-school-classroom.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "2D Mechanical Gear",
+      "category": "category-1",
+      "kind": "Individual programming project",
+      "description": "Implemented a mechanical gear from graphics primitives, then explored translation and rotation using OpenGL transformations.",
+      "description_so": "Waxaan sameeyey giraangir farsamo anigoo adeegsanaya qaabab garaafik aasaasi ah, kadibna tijaabiyey dhaqaajinta iyo wareejinta OpenGL.",
+      "methods": "C++; OpenGL; 2D geometry; matrix transformations",
+      "images": [
+        {
+          "label": "2D Mechanical Gear — report excerpt",
+          "image": "assets/project-16.jpg"
+        }
+      ],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/2d-mechanical-gear.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Personal Visual Identity",
+      "category": "category-1",
+      "kind": "Individual design study",
+      "description": "Developed and explained a personal monogram, colour choices, tagline and a plan for presenting the identity on social media.",
+      "description_so": "Waxaan sameeyey oo sharxay astaan magacayga ah, midabbada, hal-ku-dheg iyo qorshaha ku soo bandhigidda aqoonsiga baraha bulshada.",
+      "methods": "Visual identity; design rationale; personal branding",
+      "images": [],
+      "links": [],
+      "anchor": ""
+    },
+    {
+      "title": "Carry Your Ambition — Multimedia Campaign",
+      "category": "category-1",
+      "kind": "Individual campaign concept",
+      "description": "Developed an academic International Women’s Day campaign proposal for Christy Ng, centred on a proposed Ambition Mini Tote and a detachable goal card. The assessment presents a poster, social media materials, a leaflet and design rationale. AI-assisted starting visuals and written support are acknowledged alongside documented Photoshop work. This is a student concept, not an endorsed company launch.",
+      "description_so": "Waxaan sameeyey fikrad olole waxbarasho oo Maalinta Haweenka ah, kuna saabsan boorso la soo jeediyey iyo kaar yoolal. Waxaa ku jira boodh, agabka baraha bulshada, warqad xayeysiis iyo sababaha naqshadda. Kaalmada AI iyo shaqada Photoshop waa la aqoonsaday. Tani waa fikrad arday, mana aha olole shirkaddu ansixisay.",
+      "methods": "Campaign planning; visual communication; Photoshop; social media design; AI-assisted concept development",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/carry-your-ambition-campaign.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Hotel Booking Management System",
+      "category": "category-2",
+      "kind": "Group programming project",
+      "description": "Built a Java Swing booking application with registration, login, room selection and a booking summary. The report describes member discounts, loyalty points and in-memory customer storage.",
+      "description_so": "Waxaan dhisnay app Java Swing ah oo leh diiwaangelin, gelitaan, doorashada qolalka iyo soo koobidda dalabka. Warbixintu waxay sharxaysaa qiimo-dhimista xubnaha, dhibcaha daacadnimada iyo kaydinta macaamiisha ee xusuusta.",
+      "methods": "Java; Swing; GUI event handling; booking calculations",
+      "images": [
+        {
+          "label": "Hotel Booking Management System — report excerpt",
+          "image": "assets/project-5.jpg"
+        }
+      ],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/hotel-booking-management-system.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "AI-Enabled Community Health Services",
+      "category": "category-2",
+      "kind": "Group system design",
+      "description": "Designed a community healthcare management system across two reports: stakeholder needs and requirements, followed by architecture, class and sequence diagrams, database design, wireframes and ethical considerations.",
+      "description_so": "Waxaan naqshadaynay nidaam maamulka caafimaadka bulshada ah oo laba warbixin ka kooban: baahiyaha iyo shuruudaha daneeyayaasha, qaab-dhismeedka, jaantusyada UML, kayd-xogeedka, wireframes iyo arrimaha anshaxa.",
+      "methods": "Requirements analysis; UML; ER diagrams; wireframes; system architecture",
+      "images": [
+        {
+          "label": "AI-Enabled Community Health Services — report excerpt",
+          "image": "assets/project-12.jpg"
+        }
+      ],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/ai-enabled-community-health-services-1.pdf"
+        },
+        {
+          "label": "View supporting document",
+          "url": "reports/ai-enabled-community-health-services-2.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Mobile & Self-Payment Systems",
+      "category": "category-2",
+      "kind": "Group field study",
+      "description": "Compared the usability of Grab and self-checkout systems at Lotus, Decathlon and AEON in IOI City Mall, then proposed improvements.",
+      "description_so": "Waxaan isbarbardhignay fududaynta isticmaalka Grab iyo nidaamyada is-bixinta ee Lotus, Decathlon iyo AEON ee IOI City Mall, kadibna soo jeedinnay hagaajin.",
+      "methods": "Field analysis; usability criteria; comparative evaluation",
+      "images": [
+        {
+          "label": "Mobile & Self-Payment Systems — report excerpt",
+          "image": "assets/project-14.jpg"
+        }
+      ],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/mobile-self-payment-systems.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Java Programming Fundamentals",
+      "category": "category-2",
+      "kind": "Classroom exercise collection",
+      "description": "A collection of small Java programs covering calculators, BMI, ATM and bakery exercises, student records and graphical interfaces.",
+      "description_so": "Ururin barnaamijyo Java oo yaryar: xisaabiyeyaal, BMI, ATM, layliyo rooti-dukaan, diiwaannada ardayda iyo interfaces garaafik ah.",
+      "methods": "Java; control flow; calculations; Swing; practice exercises",
+      "images": [],
+      "links": [],
+      "anchor": ""
+    },
+    {
+      "title": "Object-Oriented Java Activities",
+      "category": "category-2",
+      "kind": "Classroom exercise collection",
+      "description": "Practised object-oriented programming through bank accounts, shapes, vehicles, employee classes, converters and ArrayList activities.",
+      "description_so": "Waxaan ku tababartay barnaamijyada object-oriented anigoo adeegsanaya akoonno bangi, qaabab, baabuur, fasallo shaqaale, converters iyo ArrayList.",
+      "methods": "Java; classes; encapsulation; collections",
+      "images": [],
+      "links": [],
+      "anchor": ""
+    },
+    {
+      "title": "Java Payroll Management System",
+      "category": "category-2",
+      "kind": "Individual Java project",
+      "description": "Built a Java payroll application using a shared employee model with commission, base-plus-commission and freelance worker types. The project applies inheritance, interfaces and polymorphic earnings calculations.",
+      "description_so": "Waxaan dhisay nidaam mushahar Java ah oo leh shaqaale komishan qaata, mushahar iyo komishan isku jira, iyo shaqaale madax-bannaan. Mashruucu wuxuu adeegsadaa inheritance, interfaces iyo polymorphism si loo xisaabiyo dakhliga.",
+      "methods": "Java; object-oriented programming; inheritance; interfaces; polymorphism; payroll calculations",
+      "images": [],
+      "links": [
+        {
+          "label": "Download source code",
+          "url": "downloads/java-payroll-management-source.zip"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Distributed & Parallel Computing Labs",
+      "category": "category-2",
+      "kind": "Java concurrency lab collection",
+      "description": "Expanded collection of Java and Python exercises covering process and thread management, synchronization, producer–consumer coordination, executor pools, TCP sockets, multiprocessing, locks, semaphores, parallel algorithms, file processing, task scheduling and performance evaluation. Includes 14 lab reports and corresponding available code. The Python file-processing and scheduling exercises run on one computer.",
+      "description_so": "Ururin la ballaariyey oo Java iyo Python ah: processes, threads, isku-dubbarid, producer–consumer, thread pools, sockets, multiprocessing, locks, semaphores, algorithms barbar socda, faylal, jadwal hawleed iyo qiimaynta waxqabadka. Waxaa ku jira 14 warbixin iyo koodhka la heli karo. Layliyada Python ee faylasha iyo jadwalku waxay ku shaqeeyaan hal kombiyuutar.",
+      "methods": "Java; Python; sockets; thread pools; multiprocessing; synchronization; performance evaluation",
+      "images": [],
+      "links": [
+        {
+          "label": "Download lab code",
+          "url": "downloads/java-concurrency-labs-source.zip"
+        },
+        {
+          "label": "Download expanded labs",
+          "url": "downloads/parallel-computing-expanded-labs.zip"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Shopping System — OOP Design & Java Implementation",
+      "category": "category-2",
+      "kind": "Pair Java project",
+      "description": "Collaborated on a two-phase Java shopping system: requirements, UML and transaction-flow design, followed by a console implementation with 22 source files. The system manages customers, inventory, carts, discounts, simulated cash/card payments and receipts using inheritance, interfaces, polymorphism and custom exceptions. My documented contribution covers discount policies, payment classes, receipts, checkout calculations and the console interface. The Phase 2 report includes sample outputs, error cases and implementation changes.",
+      "description_so": "Waxaan wadajir u samaynay nidaam dukaan oo laba weji ah: naqshadda UML iyo hirgelin Java console ah oo ka kooban 22 fayl. Wuxuu maareeyaa macaamiisha, alaabta, gaadhiga wax-iibsiga, qiimo-dhimista, lacag-bixinta tijaabada ah iyo rasiidyada. Doorkaygu wuxuu ahaa qiimo-dhimista, lacag-bixinta, rasiidyada, xisaabinta checkout iyo console interface. Warbixinta wejiga labaad waxay leedahay natiijooyin tijaabo, khaladaad iyo isbeddellada hirgelinta.",
+      "methods": "Java OOP design; UML; inheritance; interfaces; polymorphism; exception handling",
+      "images": [],
+      "links": [
+        {
+          "label": "View Phase 1 report",
+          "url": "reports/shopping-system-oop-design.pdf"
+        },
+        {
+          "label": "View Phase 2 report",
+          "url": "reports/shopping-system-phase2.docx"
+        },
+        {
+          "label": "Download source code",
+          "url": "downloads/shopping-system-java-source.zip"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Distributed Banking Transaction Simulator",
+      "category": "category-2",
+      "kind": "Group distributed systems project",
+      "description": "Developed a simulated banking system as part of a group project using Python TCP sockets, a thread pool, SQLite, account locking and backup-log replication. The report documents a three-node virtual-machine cluster, functional tests and performance comparisons. My documented responsibility was data storage, backup replication and the administration console. This is an academic simulation, not a production banking service.",
+      "description_so": "Waxaan koox ahaan samaynay nidaam bangi oo tijaabo ah, kuna shaqeeya Python, TCP sockets, SQLite, qufulka akoonnada iyo nuqulka diiwaanka macaamillada. Doorkaygu wuxuu ahaa kaydinta xogta, nuqulka kaydka iyo maamulka. Warbixintu waxay sharxaysaa cluster saddex mashiin ah iyo tijaabooyinka; ma aha bangi wax-soo-saar ah.",
+      "methods": "Python; TCP sockets; SQLite; concurrency control; replication; MPI; cluster computing",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/distributed-banking-simulator.docx"
+        },
+        {
+          "label": "View presentation",
+          "url": "reports/distributed-banking-presentation.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Mandelbrot Set Generator Using Parallel Processing",
+      "category": "category-2",
+      "kind": "Individual Python project",
+      "description": "Implemented a Mandelbrot fractal renderer using Python process pools and Pillow. Independent image rows are calculated by worker processes and assembled into a PNG. The report compares sequential and parallel execution using timing, speedup and efficiency measurements.",
+      "description_so": "Waxaan Python ku sameeyey sawir-saaraha Mandelbrot, anigoo isticmaalaya ProcessPoolExecutor iyo Pillow. Habab kala duwan ayaa xisaabiya safafka sawirka, kadibna waxaa la isu geeyaa PNG. Warbixintu waxay isbarbardhigaysaa waqtiga, dardargelinta iyo waxtarka fulinta isku xigta iyo tan barbar socota.",
+      "methods": "Python; ProcessPoolExecutor; Pillow; parallel processing; performance evaluation",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/mandelbrot-parallel-processing.docx"
+        },
+        {
+          "label": "Download source code",
+          "url": "downloads/mandelbrot-source.zip"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Network Topology & VLSM Design",
+      "category": "category-3",
+      "kind": "Individual network project",
+      "description": "Designed and tested a five-department LAN in Cisco Packet Tracer using a star topology, a central router and VLSM addressing.",
+      "description_so": "Waxaan Cisco Packet Tracer ku naqshadeeyey oo ku tijaabiyey LAN shan waaxood ah, leh qaab xiddig, router dhexe iyo cinwaanno VLSM ah.",
+      "methods": "Cisco Packet Tracer; VLSM; LAN design; connectivity testing",
+      "images": [
+        {
+          "label": "Network Topology & VLSM Design — report excerpt",
+          "image": "assets/project-19.jpg"
+        }
+      ],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/network-topology-vlsm-design.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Network Administration & Device Security",
+      "category": "category-3",
+      "kind": "Individual network project",
+      "description": "Extended the department network with router and switch hardening, device naming, access protection, SSH configuration and unused-port shutdown.",
+      "description_so": "Waxaan shabakadda ku daray adkaynta amniga routers iyo switches, magac-bixinta qalabka, ilaalinta gelitaanka, habaynta SSH iyo xiridda ports aan la isticmaalin.",
+      "methods": "Cisco networking; SSH; device hardening; access management",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/network-administration-device-security.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Network Security & Ethical Hacking Labs",
+      "category": "category-3",
+      "kind": "Individual cybersecurity lab portfolio",
+      "description": "Completed an authorised cybersecurity lab collection with ten weekly reports covering lab setup, ethical and legal scope, traffic analysis, Nmap scanning, password security and additional practical exercises. Supporting reports document the exercises and evidence in the learning environment.",
+      "description_so": "Waxaan dhammeeyey ururin shaybaar amniga internetka ah oo leh toban warbixin toddobaadle ah: diyaarinta deegaanka, anshaxa iyo sharciga, falanqaynta taraafikada, Nmap, amniga erayga sirta ah iyo layliyo kale. Warbixinnadu waxay diiwaangeliyaan shaqada iyo caddaynta deegaanka waxbarashada.",
+      "methods": "Docker; Wireshark; Nmap; password security; ethical scope; security reporting",
+      "images": [],
+      "links": [
+        {
+          "label": "Download lab reports",
+          "url": "downloads/network-security-lab-reports.zip"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Computer Hardware Comparison",
+      "category": "category-3",
+      "kind": "Individual coursework",
+      "description": "Compared desktop computer specifications, cost and suitability for different uses as part of a computer architecture assignment.",
+      "description_so": "Waxaan isbarbardhigay qeexitaannada, qiimaha iyo ku habboonaanta kombiyuutarrada desktop ee adeegsiyo kala duwan.",
+      "methods": "Computer architecture; hardware evaluation; technical comparison",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/computer-hardware-comparison.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Logic Gates & Number Representation",
+      "category": "category-3",
+      "kind": "Individual coursework",
+      "description": "Explored logic gates, binary number concepts and computer data representation through written explanations and diagrams.",
+      "description_so": "Waxaan sharxay logic gates, tirooyinka binary-ga iyo sida xogta kombiyuutarka loo matalo, anigoo adeegsanaya qoraal iyo jaantusyo.",
+      "methods": "Digital logic; binary systems; computer architecture",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/logic-gates-number-representation.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Operating System Evolution",
+      "category": "category-3",
+      "kind": "Individual coursework",
+      "description": "Studied the development of major operating system families, including IBM systems and UNIX, and their influence on modern computing.",
+      "description_so": "Waxaan daraaseeyey horumarka nidaamyada hawlgalka waaweyn, oo ay ku jiraan IBM iyo UNIX, iyo saamayntooda kombiyuutarrada casriga ah.",
+      "methods": "Operating systems; technical research; historical comparison",
+      "images": [],
+      "links": [
+        {
+          "label": "Download report (Word)",
+          "url": "reports/operating-system-evolution.docx"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Command-Line & Backup Exercise",
+      "category": "category-3",
+      "kind": "Individual lab",
+      "description": "Practised DOS file and directory commands and documented a batch-file backup exercise for copying text files to a backup folder.",
+      "description_so": "Waxaan ku tababartay amarrada faylasha iyo galalka ee DOS, waxaanan diiwaangeliyey layli batch-file ah oo nuqul kayd ah u sameeya faylasha qoraalka.",
+      "methods": "Windows command line; file operations; batch scripting",
+      "images": [],
+      "links": [
+        {
+          "label": "Download report (Word)",
+          "url": "reports/command-line-exercise.docx"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Sama Solutions Ransomware Investigation",
+      "category": "category-3",
+      "kind": "Group simulated forensic investigation",
+      "description": "Collaborated on a fictional ransomware incident investigation for Sama Solutions. The report documents evidence identification and preservation, chain of custody, an incident timeline, analysis, limitations and security recommendations. Findings relate to simulated evidence rather than an investigation of a real organisation.",
+      "description_so": "Waxaan koox ahaan baaritaan waxbarasho uga samaynay weerar ransomware ah oo shirkad mala-awaal ah. Warbixintu waxay sharxaysaa ilaalinta caddaynta, diiwaanka cidda gacanta ku haysay, jadwalka dhacdada, falanqaynta iyo talooyinka amniga. Caddayntu waa mid la matalay.",
+      "methods": "Digital forensics; incident response; evidence preservation; chain of custody; reporting",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/sama-ransomware-investigation.pdf"
+        },
+        {
+          "label": "View presentation",
+          "url": "reports/sama-ransomware-presentation.pptx"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Dark Web, Anonymity & Cryptocurrency",
+      "category": "category-3",
+      "kind": "Individual course learning report",
+      "description": "Documented learning from an introductory EC-Council course, covering the surface, deep and dark web, Tor, anonymity limits, cryptocurrency pseudonymity and security precautions. Includes reflection, a knowledge-application exercise and course-completion evidence.",
+      "description_so": "Waxaan warbixin ka qoray koorso hordhac ah oo EC-Council ah: surface web, deep web, dark web, Tor, xaddidaadaha qarsoodiga, cryptocurrency iyo taxaddarrada amniga. Waxaa ku jira milicsi waxbarasho iyo caddaynta dhammaystirka.",
+      "methods": "Cybersecurity awareness; privacy; Tor concepts; cryptocurrency; reflective reporting",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/dark-web-course-report.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "EC-Council Cybersecurity Laboratory Deployment",
+      "category": "category-3",
+      "kind": "Group course and lab report",
+      "description": "Contributed to a combined group submission documenting cybersecurity courses and learning exercises, including SQL injection, laboratory setup, Android security and browser automation. The report contains separately attributed teammate sections and my Dark Web course report; it does not represent sole authorship or independently completed practical work in every topic.",
+      "description_so": "Waxaan ka qayb qaatay warbixin kooxeed ku saabsan koorsooyin iyo layliyo amniga internetka: SQL injection, diyaarinta shaybaarka, Android iyo browser automation. Qaybaha waxaa qoray xubno kala duwan; qaybtaydu waxay ka mid tahay warbixinta Dark Web. Ma sheeganayso in dhammaan shaqadu tahay mid aan kaligay qabtay.",
+      "methods": "Cybersecurity learning; laboratory documentation; SQL injection awareness; collaborative reporting",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/ec-council-group-laboratory.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "UniDaily Supplies",
+      "category": "category-4",
+      "kind": "Group e-commerce project",
+      "description": "Developed a student stationery starter-pack business on Carousell Malaysia. The team report covers sourcing, store setup, marketing through TikTok, Facebook and WhatsApp, and transaction recording.",
+      "description_so": "Waxaan koox ahaan Carousell Malaysia uga samaynay ganacsi agabka ardayda ah. Warbixintu waxay ka kooban tahay soo iibinta, diyaarinta dukaanka, suuqgeynta TikTok, Facebook iyo WhatsApp iyo diiwaangelinta macaamillada.",
+      "methods": "E-commerce; digital marketing; product sourcing; financial records",
+      "images": [
+        {
+          "label": "UniDaily Supplies — report excerpt",
+          "image": "assets/project-27.jpg"
+        }
+      ],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/unidaily-supplies.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Shein E-Commerce Business Analysis",
+      "category": "category-4",
+      "kind": "Individual case study",
+      "description": "Examined Shein’s business model, target market and competitive positioning using e-commerce concepts.",
+      "description_so": "Waxaan falanqeeyey qaabka ganacsi, suuqa la beegsanayo iyo tartanka Shein anigoo adeegsanaya fikradaha ganacsiga elektarooniga ah.",
+      "methods": "Business models; market analysis; competitive comparison",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/shein-e-commerce-business-analysis.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "International Online Education",
+      "category": "category-4",
+      "kind": "Individual case study",
+      "description": "Analysed challenges for KLUST in offering online academic programmes internationally, including digital promotion and student enrolment.",
+      "description_so": "Waxaan falanqeeyey caqabadaha KLUST ee bixinta barnaamijyo waxbarasho internetka ah oo caalami ah, sida xayeysiinta dijitaalka ah iyo diiwaangelinta ardayda.",
+      "methods": "Global e-commerce; online education; case analysis",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/international-online-education.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Fadwa Collection Corporate Brand Kit",
+      "category": "category-4",
+      "kind": "Individual corporate multimedia project",
+      "description": "Analysed Fadwa Collection's digital communication and created a consistent corporate identity built around elegance, quality and modern fashion. The brand kit defines a logo direction, burgundy, cream and gold palette, typography and visual rules, then applies them to a corporate profile cover, business card and promotional materials. Additional coursework includes a multimedia-needs analysis, a proposed solution with workflow and budget considerations, and a corporate merchandise concept booklet.",
+      "description_so": "Waxaan falanqeeyey isgaarsiinta dijitaalka ah ee Fadwa Collection, waxaanan sameeyey aqoonsi shirkadeed ku dhisan qurux, tayo iyo moodo casri ah. Brand kit-ku wuxuu qeexayaa astaanta, midabbada burgundy, cream iyo gold, farta iyo xeerarka muuqaalka, kadibna wuxuu ku dabaqayaa daboolka shirkadda, kaarka ganacsiga iyo agabka xayeysiinta. Waxaa kale oo ku jira falanqaynta baahida warbaahinta, qorshe xal iyo miisaaniyad, iyo buug fikradaha badeecooyinka shirkadda.",
+      "methods": "Corporate multimedia; brand strategy; visual identity; logo design; typography; colour system; presentation",
+      "images": [],
+      "links": [
+        {
+          "label": "View brand-kit report",
+          "url": "reports/fadwa-collection-corporate-brand-kit.pdf"
+        },
+        {
+          "label": "View presentation",
+          "url": "reports/fadwa-collection-presentation.pdf"
+        },
+        {
+          "label": "View needs analysis",
+          "url": "reports/fadwa-multimedia-needs-analysis.pdf"
+        },
+        {
+          "label": "View solution design",
+          "url": "reports/fadwa-multimedia-solution-design.pdf"
+        },
+        {
+          "label": "View merchandise booklet",
+          "url": "reports/fadwa-merchandise-booklet.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Citizen Registration & Big Data Platform",
+      "category": "category-4",
+      "kind": "Group planning case study",
+      "description": "Applied project management principles to a proposed citizen registration and big data analytics platform for Somalia. This is a planning case study.",
+      "description_so": "Waxaan fikradaha maamulka mashruuca ku dabaqay madal la soo jeediyey oo diiwaangelinta muwaadiniinta iyo falanqaynta xogta waaweyn ee Soomaaliya ah. Tani waa daraasad qorshayn ah.",
+      "methods": "Project planning; scope; stakeholder analysis; big data context",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/citizen-registration-big-data-platform.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Software Team & HR Management",
+      "category": "category-4",
+      "kind": "Individual research",
+      "description": "Evaluated communication, missed deadlines, knowledge sharing and team conflict in a TechNova Solutions case, proposing management strategies and Jira-supported coordination.",
+      "description_so": "Waxaan qiimeeyey isgaarsiinta, dib-u-dhaca hawlaha, wadaagista aqoonta iyo khilaafka kooxeed ee TechNova Solutions; waxaan soo jeediyey xeelado maamul iyo isku-dubbarid Jira ah.",
+      "methods": "Software project management; teamwork; conflict resolution; Jira proposal",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/software-team-hr-management.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "British Airways Data Breach Analysis",
+      "category": "category-4",
+      "kind": "Individual ethics case study",
+      "description": "Examined a data breach through ethical and legal questions, with recommendations for responsible handling and protection of personal data.",
+      "description_so": "Waxaan falanqeeyey jebinta xogta anigoo eegaya su’aalaha anshaxa iyo sharciga, waxaanan soo jeediyey ilaalinta iyo maaraynta masuuliyadda leh ee xogta shakhsiga.",
+      "methods": "IT ethics; privacy; case analysis; research",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/british-airways-data-breach-analysis.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Data Privacy & Consent",
+      "category": "category-4",
+      "kind": "Individual ethics study",
+      "description": "Explored consent and privacy issues in AI-driven profiling and surveillance, focusing on the responsibilities of people designing data-based systems.",
+      "description_so": "Waxaan daraaseeyey oggolaanshaha iyo asturnaanta ee profiling iyo kormeerka AI, anigoo diiradda saaray masuuliyadda naqshadeeyayaasha nidaamyada xogta.",
+      "methods": "Responsible AI; data privacy; ethical analysis",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/data-privacy-consent.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Applying Data Analytics Responsibly",
+      "category": "category-4",
+      "kind": "Individual reflective assessment",
+      "description": "Reflected on learning from the Excel and Power BI comparison, RavenStack analytics and Starbucks segmentation assignments. Discussed data preparation, explaining analytical decisions, limitations of models and responsible interpretation of findings. This is a reflective assessment supporting the practical projects already listed.",
+      "description_so": "Waxaan ka milicsaday barashada Excel, Power BI, RavenStack iyo kala qaybinta Starbucks. Waxaan ka hadlay diyaarinta xogta, sharaxaadda go’aamada, xaddidaadaha moodeellada iyo fasiraadda masuuliyadda leh. Tani waa milicsi taageeraya mashaariicda hore u qoran.",
+      "methods": "Business analytics; data quality; responsible interpretation; reflective writing",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/responsible-business-analytics-reflection.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Intelligent Systems in Smart Cities",
+      "category": "category-5",
+      "kind": "Group presentation",
+      "description": "Explained how intelligent systems collect urban data, analyse conditions and support decisions, including a Singapore traffic management case study.",
+      "description_so": "Waxaan sharxay sida nidaamyada caqliga leh u ururiyaan xogta magaalooyinka, u falanqeeyaan xaaladaha una taageeraan go’aamada, oo ay ku jirto daraasad maamulka taraafikada Singapore.",
+      "methods": "Smart cities; AI applications; sustainability; presentation",
+      "images": [
+        {
+          "label": "Intelligent Systems in Smart Cities — report excerpt",
+          "image": "assets/project-2.jpg"
+        }
+      ],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/intelligent-systems-in-smart-cities.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Corporate Sustainability & ESG",
+      "category": "category-5",
+      "kind": "Individual case study",
+      "description": "Compared sustainability and ESG practices at Unilever, Tesla and Nestlé, with consideration of whole-life costs.",
+      "description_so": "Waxaan isbarbardhigay joogtaynta iyo ESG ee Unilever, Tesla iyo Nestlé, anigoo tixgeliyey kharashaadka muddada nolosha oo dhan.",
+      "methods": "ESG analysis; comparative research; whole-life costing",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/corporate-sustainability-esg.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Hargeisa Urban Water Supply",
+      "category": "category-5",
+      "kind": "Group case study",
+      "description": "Studied the infrastructure and sustainability aspects of the Hargeisa Urban Water Supply Upgrading Project in Somalia.",
+      "description_so": "Waxaan daraaseeyey kaabayaasha iyo joogtaynta mashruuca hagaajinta biyaha magaalada Hargeysa ee Soomaaliya.",
+      "methods": "Infrastructure analysis; sustainability; group research",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/hargeisa-urban-water-supply.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Somali Wedding Traditions",
+      "category": "category-5",
+      "kind": "Group report & presentation",
+      "description": "Investigated the role of small-group communication in Somali wedding traditions and how families coordinate cultural events.",
+      "description_so": "Waxaan baaray doorka isgaarsiinta kooxaha yaryar ee dhaqanka aroosyada Soomaaliyeed iyo sida qoysasku u abaabulaan munaasabadaha.",
+      "methods": "Cultural research; group communication; presentation",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/somali-wedding-traditions-1.pdf"
+        },
+        {
+          "label": "View supporting document",
+          "url": "reports/somali-wedding-traditions-2.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Managing Conflict in Groups",
+      "category": "category-5",
+      "kind": "Individual coursework",
+      "description": "Analysed task, process and interpersonal conflict in a study-group scenario and considered conflict-management strategies.",
+      "description_so": "Waxaan falanqeeyey khilaafka hawsha, hab-socodka iyo xiriirka ee koox waxbarasho, waxaanan eegay xeeladaha maaraynta khilaafka.",
+      "methods": "Communication; conflict analysis; teamwork",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/managing-conflict-in-groups.pdf"
+        }
+      ],
+      "anchor": ""
+    },
+    {
+      "title": "Research Exhibition Reflection",
+      "category": "category-5",
+      "kind": "Individual visit report",
+      "description": "Documented attendance at the Tan Sri Leo Moggie Lecture Series and reflected on selected IT-related research exhibits.",
+      "description_so": "Waxaan diiwaangeliyey ka-qaybgalkayga Tan Sri Leo Moggie Lecture Series, waxaanan ka faallooday bandhigyo cilmi-baaris oo IT ah.",
+      "methods": "Observation; research communication; reflective reporting",
+      "images": [],
+      "links": [
+        {
+          "label": "View report",
+          "url": "reports/research-exhibition-reflection.pdf"
+        }
+      ],
+      "anchor": ""
+    }
+  ]
+}
