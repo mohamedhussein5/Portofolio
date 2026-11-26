@@ -1,93 +1,4 @@
 {
-  "name": "Mohamed Hussein Mohamed",
-  "headline": "DESIGNER · UI/UX DESIGNER · COMPUTER SCIENCE STUDENT",
-  "headline_so": "NAQSHADEEYE · NAQSHADEEYE UI/UX · ARDAY CILMIGA KOMBIYUUTARKA",
-  "intro": "I’m a Computer Science student, graphic designer and media professional with experience in technology, education and digital communication. I combine technical knowledge with creative thinking to build useful solutions and communicate ideas effectively.",
-  "intro_so": "Waxaan ahay arday cilmiga kombiyuutarka, naqshadeeye garaafik iyo xirfadle warbaahineed oo khibrad u leh tiknoolajiyada, waxbarashada iyo isgaarsiinta dijitaalka ah. Waxaan isku daraa aqoon farsamo iyo fikir hal-abuur leh si aan u dhiso xalal waxtar leh, fikradahana si hufan u gudbiyo.",
-  "degree": "Bachelor in Computer Science (Honours)",
-  "university": "Studying at Kuala Lumpur University of Science and Technology (KLUST)",
-  "progress": "Semester 5 · CGPA 3.7",
-  "portrait": "assets/mohamed-portrait-october.jpg",
-  "years": "3+ years",
-  "about": [
-    {
-      "text": "I’m Mohamed Hussein Mohamed, a Computer Science student at Kuala Lumpur University of Science and Technology, currently in Semester 5 of my Bachelor in Computer Science (Honours), focusing on data science, with a CGPA of 3.7. My interests cover data analytics, programming, graphic design, multimedia and digital communication.",
-      "text_so": "Waxaan ahay Mohamed Hussein Mohamed, arday Kuala Lumpur University of Science and Technology ah, kuna jira simistarka 5 ee Bachelor in Computer Science (Honours), diiraddayduna waa data science; CGPA-gaygu waa 3.7. Waxaan xiiseeyaa falanqaynta xogta, barnaamijyada, naqshadaynta garaafik, warbaahinta iyo isgaarsiinta dijitaalka ah."
-    },
-    {
-      "text": "I have more than three years of graphic design experience and have worked as a graphic design lecturer, social media manager and cameraman. I currently support digital communication and creative work at Tech Grow Training and Innovation Center and Sahal Institute of Computer and Information Technology. At university, I serve as Social Media Officer for SSA-KLUST and serve as Head of Multimedia and Creativity for KLUST Cyber Alliance.",
-      "text_so": "Waxaan leeyahay in ka badan saddex sano oo khibrad naqshadaynta garaafik ah, waxaanan ka shaqeeyey macallinnimo, maamulka baraha bulshada iyo sawir-qaadis. Hadda waxaan taageeraa shaqada hal-abuurka iyo isgaarsiinta ee Tech Grow iyo Sahal Institute. Jaamacadda waxaan ahay Sarkaalka Baraha Bulshada ee SSA-KLUST, waxaanan ahay Madaxa Warbaahinta Isku Dhafan iyo Hal-abuurka ee KLUST Cyber Alliance."
-    },
-    {
-      "text": "My technical skills include Python, Java, SQL, Power BI, Excel, HTML and CSS. I also use Adobe Photoshop, Adobe Illustrator, Canva, Figma and CapCut to create visual and multimedia content.",
-      "text_so": "Xirfadahayga farsamo waxaa ka mid ah Python, Java, SQL, Power BI, Excel, HTML iyo CSS. Waxaan sidoo kale adeegsadaa Adobe Photoshop, Illustrator, Canva, Figma iyo CapCut si aan u sameeyo agab muuqaal iyo warbaahineed."
-    },
-    {
-      "text": "Through my academic projects and professional experience, I have developed strong communication, teamwork, leadership, critical-thinking and problem-solving skills. I enjoy learning, taking responsibility and using both creativity and technology to produce meaningful work.",
-      "text_so": "Mashaariicdayda waxbarasho iyo khibraddayda shaqo waxay ii kobciyeen isgaarsiin, wada-shaqayn, hoggaamin, fikir gorfayn leh iyo xallinta dhibaatooyinka. Waxaan jeclahay barashada, masuuliyad qaadashada iyo adeegsiga hal-abuurka iyo tiknoolajiyada si aan u soo saaro shaqo qiimo leh."
-    }
-  ],
-  "about_title": "Creative by experience.",
-  "about_subtitle": "Driven by technology.",
-  "facts": [
-    {
-      "label": "DEGREE",
-      "value": "Bachelor in Computer Science (Honours)",
-      "value_so": "Shahaadada koowaad ee Cilmiga Kombiyuutarka (Honours)"
-    },
-    {
-      "label": "ACADEMIC PROGRESS",
-      "value": "Semester 5 · CGPA 3.7",
-      "value_so": "Simistarka 5 · CGPA 3.7"
-    },
-    {
-      "label": "BASED IN",
-      "value": "Malaysia · Studying at Kuala Lumpur University of Science and Technology (KLUST)",
-      "value_so": "Malaysia · Waxaan wax ka bartaa Kuala Lumpur University of Science and Technology (KLUST)"
-    },
-    {
-      "label": "AREAS OF PRACTICE",
-      "value": "Graphic design · Social media · Multimedia · Data analytics",
-      "value_so": "Naqshadaynta garaafik · Baraha bulshada · Warbaahin isku dhafan · Falanqaynta xogta"
-    }
-  ],
-  "contacts": [
-    {
-      "label": "LINKEDIN",
-      "name": "Mohamed Hussein Mohamed",
-      "url": "https://www.linkedin.com/in/mohamed-hussein-mohamed-b84145384/"
-    },
-    {
-      "label": "EMAIL",
-      "name": "maxamedxuseengeesey8@gmail.com",
-      "url": "mailto:maxamedxuseengeesey8@gmail.com"
-    },
-    {
-      "label": "ALTERNATIVE EMAIL",
-      "name": "5566mxm@gmail.com",
-      "url": "mailto:5566mxm@gmail.com"
-    },
-    {
-      "label": "WHATSAPP · MALAYSIA",
-      "name": "+60 11-2735 2519",
-      "url": "https://wa.me/601127352519"
-    },
-    {
-      "label": "WHATSAPP · SOMALIA",
-      "name": "+252 61 0727286",
-      "url": "https://wa.me/252610727286"
-    },
-    {
-      "label": "FACEBOOK",
-      "name": "Mohamed Hussein Mhamed",
-      "url": "https://facebook.com/mohamed.hussein.mohamed.819092"
-    },
-    {
-      "label": "GITHUB",
-      "name": "mohamedhussein5",
-      "url": "https://github.com/mohamedhussein5"
-    }
-  ],
   "skill_groups": [
     {
       "title": "Technical skills",
@@ -189,9 +100,98 @@
       ]
     }
   ],
-  "degree_so": "Shahaadada koowaad ee Cilmiga Kombiyuutarka (Honours)",
+  "about_title": "Creative by experience.",
+  "headline_so": "NAQSHADEEYE · NAQSHADEEYE UI/UX · ARDAY CILMIGA KOMBIYUUTARKA",
+  "facts": [
+    {
+      "label": "DEGREE",
+      "value": "Bachelor in Computer Science (Honours)",
+      "value_so": "Shahaadada koowaad ee Cilmiga Kombiyuutarka (Honours)"
+    },
+    {
+      "label": "ACADEMIC PROGRESS",
+      "value": "Semester 5 · CGPA 3.7",
+      "value_so": "Simistarka 5 · CGPA 3.7"
+    },
+    {
+      "label": "BASED IN",
+      "value": "Malaysia · Studying at Kuala Lumpur University of Science and Technology (KLUST)",
+      "value_so": "Malaysia · Waxaan wax ka bartaa Kuala Lumpur University of Science and Technology (KLUST)"
+    },
+    {
+      "label": "AREAS OF PRACTICE",
+      "value": "Graphic design · Social media · Multimedia · Data analytics",
+      "value_so": "Naqshadaynta garaafik · Baraha bulshada · Warbaahin isku dhafan · Falanqaynta xogta"
+    }
+  ],
+  "about_subtitle": "Driven by technology.",
+  "name": "Mohamed Hussein Mohamed",
+  "intro": "I’m a Computer Science student, graphic designer and media professional with experience in technology, education and digital communication. I combine technical knowledge with creative thinking to build useful solutions and communicate ideas effectively.",
+  "degree": "Bachelor in Computer Science (Honours)",
   "university_so": "Waxaan wax ka bartaa Kuala Lumpur University of Science and Technology (KLUST)",
+  "progress": "Semester 5 · CGPA 3.7",
+  "about": [
+    {
+      "text": "I’m Mohamed Hussein Mohamed, a Computer Science student at Kuala Lumpur University of Science and Technology, currently in Semester 5 of my Bachelor in Computer Science (Honours), focusing on data science, with a CGPA of 3.7. My interests cover data analytics, programming, graphic design, multimedia and digital communication.",
+      "text_so": "Waxaan ahay Mohamed Hussein Mohamed, arday Kuala Lumpur University of Science and Technology ah, kuna jira simistarka 5 ee Bachelor in Computer Science (Honours), diiraddayduna waa data science; CGPA-gaygu waa 3.7. Waxaan xiiseeyaa falanqaynta xogta, barnaamijyada, naqshadaynta garaafik, warbaahinta iyo isgaarsiinta dijitaalka ah."
+    },
+    {
+      "text": "I have more than three years of graphic design experience and have worked as a graphic design lecturer, social media manager and cameraman. I currently support digital communication and creative work at Tech Grow Training and Innovation Center and Sahal Institute of Computer and Information Technology. At university, I serve as Social Media Officer for SSA-KLUST and serve as Head of Multimedia and Creativity for KLUST Cyber Alliance.",
+      "text_so": "Waxaan leeyahay in ka badan saddex sano oo khibrad naqshadaynta garaafik ah, waxaanan ka shaqeeyey macallinnimo, maamulka baraha bulshada iyo sawir-qaadis. Hadda waxaan taageeraa shaqada hal-abuurka iyo isgaarsiinta ee Tech Grow iyo Sahal Institute. Jaamacadda waxaan ahay Sarkaalka Baraha Bulshada ee SSA-KLUST, waxaanan ahay Madaxa Warbaahinta Isku Dhafan iyo Hal-abuurka ee KLUST Cyber Alliance."
+    },
+    {
+      "text": "My technical skills include Python, Java, SQL, Power BI, Excel, HTML and CSS. I also use Adobe Photoshop, Adobe Illustrator, Canva, Figma and CapCut to create visual and multimedia content.",
+      "text_so": "Xirfadahayga farsamo waxaa ka mid ah Python, Java, SQL, Power BI, Excel, HTML iyo CSS. Waxaan sidoo kale adeegsadaa Adobe Photoshop, Illustrator, Canva, Figma iyo CapCut si aan u sameeyo agab muuqaal iyo warbaahineed."
+    },
+    {
+      "text": "Through my academic projects and professional experience, I have developed strong communication, teamwork, leadership, critical-thinking and problem-solving skills. I enjoy learning, taking responsibility and using both creativity and technology to produce meaningful work.",
+      "text_so": "Mashaariicdayda waxbarasho iyo khibraddayda shaqo waxay ii kobciyeen isgaarsiin, wada-shaqayn, hoggaamin, fikir gorfayn leh iyo xallinta dhibaatooyinka. Waxaan jeclahay barashada, masuuliyad qaadashada iyo adeegsiga hal-abuurka iyo tiknoolajiyada si aan u soo saaro shaqo qiimo leh."
+    }
+  ],
   "progress_so": "Simistarka 5 · CGPA 3.7",
+  "university": "Studying at Kuala Lumpur University of Science and Technology (KLUST)",
+  "degree_so": "Shahaadada koowaad ee Cilmiga Kombiyuutarka (Honours)",
+  "intro_so": "Waxaan ahay arday barta cilmiga kombiyuutarka, naqshadeeye garaafik iyo xirfadle warbaahineed oo khibrad u leh tiknoolajiyada, waxbarashada iyo isgaarsiinta dijitaalka ah. Waxaan isku daraa aqoon farsamo iyo fikir hal-abuur leh si aan u dhiso xalal waxtar leh, fikradahana si hufan u gudbiyo.",
+  "about_subtitle_so": "Tiknoolaji igu hagaysa.",
+  "contacts": [
+    {
+      "label": "LINKEDIN",
+      "name": "Mohamed Hussein Mohamed",
+      "url": "https://www.linkedin.com/in/mohamed-hussein-mohamed-b84145384/"
+    },
+    {
+      "label": "EMAIL",
+      "name": "maxamedxuseengeesey8@gmail.com",
+      "url": "mailto:maxamedxuseengeesey8@gmail.com"
+    },
+    {
+      "label": "ALTERNATIVE EMAIL",
+      "name": "5566mxm@gmail.com",
+      "url": "mailto:5566mxm@gmail.com"
+    },
+    {
+      "label": "WHATSAPP · MALAYSIA",
+      "name": "+60 11-2735 2519",
+      "url": "https://wa.me/601127352519"
+    },
+    {
+      "label": "WHATSAPP · SOMALIA",
+      "name": "+252 61 0727286",
+      "url": "https://wa.me/252610727286"
+    },
+    {
+      "label": "FACEBOOK",
+      "name": "Mohamed Hussein Mhamed",
+      "url": "https://facebook.com/mohamed.hussein.mohamed.819092"
+    },
+    {
+      "label": "GITHUB",
+      "name": "mohamedhussein5",
+      "url": "https://github.com/mohamedhussein5"
+    }
+  ],
+  "headline": "DESIGNER · UI/UX DESIGNER · COMPUTER SCIENCE STUDENT",
   "about_title_so": "Hal-abuur ku dhisan khibrad.",
-  "about_subtitle_so": "Tiknoolaji igu hagaysa."
+  "years": "3+ years",
+  "portrait": "assets/mohamed-portrait-october.jpg"
 }
